@@ -1,0 +1,191 @@
+UniProtKB:Q7L5A8	FA2H	fatty acid hydroxylase pthr12863
+UniProtKB:O95864	FADS2	fatty acid desaturase 2 pthr19353
+UniProtKB:P05413	FABP3	fatty acid binding protein pthr11955
+UniProtKB:E9PKP8	FADS3	
+UniProtKB:Q8N9I5	FADS6	
+UniProtKB:A0A0A0MR51	FADS1	
+UniProtKB:O60427	FADS1	
+UniProtKB:A0A0U1RQF0	FASN	
+UniProtKB:Q96IV6	FAXDC2	sterol desaturase pthr11863
+UniProtKB:P51648	ALDH3A2	aldehyde dehydrogenase-related pthr11699
+UniProtKB:A8MWK0	FADS2P1	
+UniProtKB:Q08477	CYP4F3	family not named pthr24290
+UniProtKB:Q9UJM8	HAO1	(s)-2-hydroxy-acid oxidase-related pthr10578
+UniProtKB:Q9NYQ3	HAO2	(s)-2-hydroxy-acid oxidase-related pthr10578
+UniProtKB:Q8IXQ9	ETFBKMT	methyltransferase pthr18895
+UniProtKB:Q9UBJ2	ABCD2	atp-binding cassette, sub-family d member pthr11384
+UniProtKB:Q8NCG7	DAGLB	cgi-141-related/lipase containing protein pthr21493
+UniProtKB:Q6JQN1	ACAD10	electron transport oxidoreductase pthr10909
+UniProtKB:Q9UHK6	AMACR	alpha methylacyl-coa racemase pthr11837
+UniProtKB:P38117	ETFB	electron transfer flavoprotein beta-subunit pthr21294
+UniProtKB:Q9NUZ1	ACOXL	electron transport oxidoreductase pthr10909
+UniProtKB:O15254	ACOX3	electron transport oxidoreductase pthr10909
+UniProtKB:P43155	CRAT	carnitine o-acyltransferase pthr22589
+UniProtKB:A8MXV4	NUDT19	testosterone-regulated protein rp2 pthr12318
+UniProtKB:P09110	ACAA1	acetyl-coa c-acyltransferase pthr18919
+UniProtKB:P16219	ACADS	electron transport oxidoreductase pthr10909
+UniProtKB:Q15067	ACOX1	electron transport oxidoreductase pthr10909
+UniProtKB:Q2T9J0	TYSND1	serine protease-related pthr21004
+UniProtKB:P51659	HSD17B4	family not named pthr24316
+UniProtKB:O14975	SLC27A2	family not named pthr24096
+UniProtKB:Q92947	GCDH	electron transport oxidoreductase pthr10909
+UniProtKB:P26440	IVD	electron transport oxidoreductase pthr10909
+UniProtKB:Q9UKU7	ACAD8	electron transport oxidoreductase pthr10909
+UniProtKB:P45954	ACADSB	electron transport oxidoreductase pthr10909
+UniProtKB:P13804	ETFA	electron transport oxidoreductase pthr10909
+UniProtKB:Q709F0	ACAD11	electron transport oxidoreductase pthr10909
+UniProtKB:P33897	ABCD1	atp-binding cassette, sub-family d member pthr11384
+UniProtKB:P55084	HADHB	acetyl-coa c-acyltransferase pthr18919
+UniProtKB:Q92523	CPT1B	carnitine o-acyltransferase pthr22589
+UniProtKB:P05166	PCCB	acetyl, propionyl, pyruvate, and glutaconyl carboxylase-related pthr22855
+UniProtKB:Q99424	ACOX2	electron transport oxidoreductase pthr10909
+UniProtKB:P49748	ACADVL	electron transport oxidoreductase pthr10909
+UniProtKB:P28288	ABCD3	atp-binding cassette, sub-family d member pthr11384
+UniProtKB:P28330	ACADL	electron transport oxidoreductase pthr10909
+UniProtKB:C9JVW9	PCCB	
+UniProtKB:H7C5C9	PCCB	
+UniProtKB:Q08426	EHHADH	3-hydroxyacyl-coa dehyrogenase pthr23309
+UniProtKB:P11310	ACADM	electron transport oxidoreductase pthr10909
+UniProtKB:Q16836	HADH	3-hydroxyacyl-coa dehyrogenase pthr23309
+UniProtKB:P30084	ECHS1	enoyl-coa hydratase-related pthr11941
+UniProtKB:P42126	ECI1	enoyl-coa hydratase-related pthr11941
+UniProtKB:K7ENF1	ACOX1	
+UniProtKB:H7C4Q2	ACOX2	
+UniProtKB:K7ESC7	ACOX1	
+UniProtKB:A0A0C4DG10	ACOXL	
+UniProtKB:P0C869	PLA2G4B	cytosolic phospholipase a2 pthr10728
+UniProtKB:Q86WA8	LONP2	atp dependent lon protease family member pthr10046
+UniProtKB:O43741	PRKAB2	5'-amp-activated protein kinase , beta subunit pthr10343
+UniProtKB:P50416	CPT1A	carnitine o-acyltransferase pthr22589
+UniProtKB:Q9UKG9	CROT	carnitine o-acyltransferase pthr22589
+UniProtKB:P62873	GNB1	guanine nucleotide-binding protein beta (g protein beta) pthr19850
+UniProtKB:O14734	ACOT8	acyl-coa thioesterase pthr11066
+UniProtKB:Q9H845	ACAD9	electron transport oxidoreductase pthr10909
+UniProtKB:P31751	AKT2	akt-related serine/threonine-protein kinase pthr24352
+UniProtKB:P55055	NR1H2	nuclear hormone receptor pthr24082
+UniProtKB:Q16134	ETFDH	electron transfer flavoprotein-ubiquinone oxidoreductase pthr10617
+UniProtKB:A6NEP8	ABCD1	
+UniProtKB:Q00G26	PLIN5	adipophilin/perilipin pthr14024
+UniProtKB:P40939	HADHA	3-hydroxyacyl-coa dehyrogenase pthr23309
+UniProtKB:Q16698	DECR1	family not named pthr24315
+UniProtKB:P24557	TBXAS1	
+UniProtKB:Q6ZYK7	COX-2	
+UniProtKB:A0A087X296	PTGS1	
+UniProtKB:X6RJD6	PTGS1	
+UniProtKB:B4E0T2	PEX5	
+UniProtKB:P20853	CYP2A7	family not named pthr24300
+UniProtKB:P01584	IL1B	interleukin-1 family member pthr10078
+UniProtKB:Q7Z449	CYP2U1	family not named pthr24300
+UniProtKB:Q9NZ01	TECR	3-oxo-5-alpha-steroid 4-dehydrogenase pthr10556
+UniProtKB:Q9BUT1	BDH2	family not named pthr24321
+UniProtKB:O14832	PHYH	phytanoyl-coa alpha-hydroxylase pthr21308
+UniProtKB:Q8TBF2	FAM213B	
+UniProtKB:P09917	ALOX5	lipoxygenase pthr11771
+UniProtKB:Q16873	LTC4S	microsomal glutathione s-transferase pthr10250
+UniProtKB:A0A0A0MT35	FAM213B	
+UniProtKB:P11177	PDHB	dehydrogenase related pthr11624
+UniProtKB:P22307	SCP2	family not named pthr24314
+UniProtKB:Q86SK9	SCD5	acyl-coa desaturase pthr11351
+UniProtKB:O00767	SCD	acyl-coa desaturase pthr11351
+UniProtKB:O43808	SLC25A17	family not named pthr24089
+UniProtKB:Q03167	TGFBR3	endoglin/tgf-beta receptor type iii pthr14002
+UniProtKB:P15428	HPGD	family not named pthr24310
+UniProtKB:P16152	CBR1	family not named pthr24322
+UniProtKB:P23219	PTGS1	prostaglandin g/h synthase pthr11903
+UniProtKB:Q9Y4H2	IRS2	insulin receptor substrate pthr10614
+UniProtKB:Q9UJ83	HACL1	thiamine pyrophosphate enzymes pthr18968
+UniProtKB:Q8N8N7	PTGR2	alcohol dehydrogenase related pthr11695
+UniProtKB:P28328	PEX2	peroxisomal protein related pthr12590
+UniProtKB:P51589	CYP2J2	family not named pthr24300
+UniProtKB:Q9NUI1	DECR2	family not named pthr24315
+UniProtKB:O15121	DEGS1	sphingolipid delta 4 desaturase/c-4 hydroxylase protein des2 pthr12879
+UniProtKB:P24903	CYP2F1	family not named pthr24300
+UniProtKB:P10632	CYP2C8	family not named pthr24300
+UniProtKB:Q16696	CYP2A13	family not named pthr24300
+UniProtKB:P20813	CYP2B6	family not named pthr24300
+UniProtKB:P33260	CYP2C18	family not named pthr24300
+UniProtKB:P35354	PTGS2	prostaglandin g/h synthase pthr11903
+UniProtKB:Q02928	CYP4A11	family not named pthr24290
+UniProtKB:P04798	CYP1A1	family not named pthr24299
+UniProtKB:Q03181	PPARD	nuclear hormone receptor pthr24082
+UniProtKB:E9PPW5	SC5D	
+UniProtKB:D6R952	MSMO1	
+UniProtKB:D6RDP9	MSMO1	
+UniProtKB:E9PQ91	SC5D	
+UniProtKB:Q08AH1	ACSM1	family not named pthr24095
+UniProtKB:Q9BYJ1	ALOXE3	lipoxygenase pthr11771
+UniProtKB:Q6ZWL3	CYP4V2	family not named pthr24290
+UniProtKB:O95822	MLYCD	family not named pthr32032
+UniProtKB:P36969	GPX4	glutathione peroxidase pthr11592
+UniProtKB:P35568	IRS1	insulin receptor substrate pthr10614
+UniProtKB:A0A087WYT3	PTGES3	
+UniProtKB:Q99735	MGST2	microsomal glutathione s-transferase pthr10250
+UniProtKB:A0A087WW23	ALOX5AP	
+UniProtKB:P11509	CYP2A6	family not named pthr24300
+UniProtKB:P05181	CYP2E1	family not named pthr24300
+UniProtKB:P11712	CYP2C9	family not named pthr24300
+UniProtKB:P33261	CYP2C19	family not named pthr24300
+UniProtKB:H0YFD6	HADHA	
+UniProtKB:A0A0A0MSE2	HADH	
+UniProtKB:A0A087WW38	CRYL1	
+UniProtKB:P98187	CYP4F8	
+UniProtKB:P78329	CYP4F2	family not named pthr24290
+UniProtKB:Q9HCS2	CYP4F12	family not named pthr24290
+UniProtKB:Q6NT55	CYP4F22	family not named pthr24290
+UniProtKB:Q07869	PPARA	nuclear hormone receptor pthr24082
+UniProtKB:O75342	ALOX12B	lipoxygenase pthr11771
+UniProtKB:O15296	ALOX15B	lipoxygenase pthr11771
+UniProtKB:Q15672	TWIST1	basic helix-loop-helix transcription factor, twist pthr23349
+UniProtKB:P10635	CYP2D6	
+UniProtKB:P31749	AKT1	akt-related serine/threonine-protein kinase pthr24352
+UniProtKB:P18054	ALOX12	lipoxygenase pthr11771
+UniProtKB:P05177	CYP1A2	
+UniProtKB:P40394	ADH7	alcohol dehydrogenase related pthr11695
+UniProtKB:Q9BV79	MECR	alcohol dehydrogenase related pthr11695
+UniProtKB:P52895	AKR1C2	aldo/keto reductase pthr11732
+UniProtKB:Q16654	PDK4	pyruvate dehydrogenase kinase pthr11947
+UniProtKB:P42330	AKR1C3	aldo/keto reductase pthr11732
+UniProtKB:Q86V24	ADIPOR2	adipor/progestin receptor-related pthr20855
+UniProtKB:Q96A54	ADIPOR1	adipor/progestin receptor-related pthr20855
+UniProtKB:P02647	APOA1	apolipoprotein pthr18976
+UniProtKB:P08559	PDHA1	pyruvate dehydrogenase e1 component, alpha subunit (bacterial and organellar) pthr11516
+UniProtKB:Q92968	PEX13	peroxisomal membrane protein pex13 pthr19332
+UniProtKB:P51649	ALDH5A1	aldehyde dehydrogenase-related pthr11699
+UniProtKB:P16050	ALOX15	lipoxygenase pthr11771
+UniProtKB:O14561	NDUFAB1	acyl carrier protein/zinc finger protein 593-related pthr20863
+UniProtKB:Q9Y6E7	SIRT4	chromatin regulatory protein sir2 pthr11085
+UniProtKB:P11766	ADH5	alcohol dehydrogenase related pthr11695
+UniProtKB:O15439	ABCC4	family not named pthr24223
+UniProtKB:P59768	GNG2	guanine nucleotide-binding protein gamma subunit pthr13809
+UniProtKB:P20800	EDN2	endothelin pthr13874
+UniProtKB:Q02252	ALDH6A1	aldehyde dehydrogenase-related pthr11699
+UniProtKB:Q9UGJ0	PRKAG2	amp-activated protein kinase, gamma regulatory subunit pthr13780
+UniProtKB:Q9UBK2	PPARGC1A	peroxisome proliferator activated receptor gamma coactivator 1 (pgc-1)-related pthr15528
+UniProtKB:P06727	APOA4	
+UniProtKB:Q15800	MSMO1	sterol desaturase pthr11863
+UniProtKB:Q15848	ADIPOQ	complement c1q-related pthr24022
+UniProtKB:P09622	DLD	disulfide oxidoreductase pthr22912
+UniProtKB:O00330	PDHX	dihydrolipoamide acetyl/succinyl-transferase-related pthr23151
+UniProtKB:P10515	DLAT	dihydrolipoamide acetyl/succinyl-transferase-related pthr23151
+UniProtKB:P16671	CD36	scavenger receptor class b type-1 (sr-b1) pthr11923
+UniProtKB:Q92570	NR4A3	nuclear hormone receptor pthr24085
+UniProtKB:P02649	APOE	apolipoprotein pthr18976
+UniProtKB:Q96EB6	SIRT1	chromatin regulatory protein sir2 pthr11085
+UniProtKB:P23510	TNFSF4	ox40 ligand pthr17534
+UniProtKB:P12821	ACE	angiotensin-converting enzyme pthr10514
+UniProtKB:P04233	CD74	hla class ii gamma chain pthr14093
+UniProtKB:P07996	THBS1	thrombospondin pthr10199
+UniProtKB:Q16678	CYP1B1	
+UniProtKB:P05305	EDN1	endothelin pthr13874
+UniProtKB:Q03135	CAV1	caveolin pthr10844
+UniProtKB:P43405	SYK	tyrosine-protein kinase pthr24418
+UniProtKB:P35228	NOS2	flavodoxin-related pthr19384
+UniProtKB:P01308	INS	insulin/insulin growth factor pthr11454
+UniProtKB:O15055	PER2	period circadian protein pthr11269
+UniProtKB:P07203	GPX1	glutathione peroxidase pthr11592
+UniProtKB:Q7Z2X4	PID1	family not named pthr16265
+UniProtKB:Q99731	CCL19	small inducible cytokine a pthr12015
+UniProtKB:Q5D1E8	ZC3H12A	n4bp1-related pthr12876
+UniProtKB:P41159	LEP	leptin pthr11724
+UniProtKB:Q8N474	SFRP1	frizzled pthr11309
+UniProtKB:P32248	CCR7	chemokine receptor pthr24227

@@ -1,0 +1,11 @@
+UniProtKB	Q08426	EHHADH		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Peroxisomal bifunctional enzyme	ECHP_HUMAN|ECHD	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	P23786	CPT2		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Carnitine O-palmitoyltransferase 2, mitochondrial	CPT2_HUMAN|CPT1	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	Q8TCG5	CPT1C		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Carnitine O-palmitoyltransferase 1, brain isoform	CPT1C_HUMAN|CATL1	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	Q92523	CPT1B		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Carnitine O-palmitoyltransferase 1, muscle isoform	CPT1B_HUMAN|KIAA1670	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	P50416	CPT1A		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Carnitine O-palmitoyltransferase 1, liver isoform	CPT1A_HUMAN|CPT1	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	P42126	ECI1		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Enoyl-CoA delta isomerase 1, mitochondrial	ECI1_HUMAN|DCI	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	P55084	HADHB		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Trifunctional enzyme subunit beta, mitochondrial	ECHB_HUMAN|MSTP029	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	P40939	HADHA		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Trifunctional enzyme subunit alpha, mitochondrial	ECHA_HUMAN|HADH	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	Q13011	ECH1		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial	ECH1_HUMAN	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	Q16836	HADH		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial	HCDH_HUMAN|HAD|HADHSC|SCHAD	protein	NCBITaxon:9606	20160423	UniProt		
+UniProtKB	P30084	ECHS1		GO:0006635	GO_REF:0000041	IEA	UniPathway:UPA00659	P	Enoyl-CoA hydratase, mitochondrial	ECHM_HUMAN	protein	NCBITaxon:9606	20160423	UniProt		

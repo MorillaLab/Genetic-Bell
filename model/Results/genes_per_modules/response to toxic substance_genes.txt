@@ -1,0 +1,212 @@
+UniProtKB:P11831	SRF	mads box protein pthr11945
+UniProtKB:K9JA46	EL52	
+UniProtKB:Q16605	GST2	
+UniProtKB:A0A0A0MSI0	PRDX1	
+UniProtKB:P63302	SEPW1	
+UniProtKB:A6NJJ0	PRDX4	
+UniProtKB:A6NG45	PRDX4	
+UniProtKB:A0A0A0MTT1	GPX4	
+UniProtKB:H0YBE4	GPX3	
+UniProtKB:K7EKX7	GPX4	
+UniProtKB:A3KN74	GPX6	
+UniProtKB:K7ENB4	GPX4	
+UniProtKB:H0YC19	GPX3	
+UniProtKB:H0YJK8	GPX2	
+UniProtKB:E5RG32	GPX3	
+UniProtKB:K7EJ20	GPX4	
+UniProtKB:A0A087X247	GPX4	
+UniProtKB:A0A087X1J7	GPX3	
+UniProtKB:A0A087X0K3	GPX6	
+UniProtKB:K7ERP4	GPX4	
+UniProtKB:G3V4J6	GPX2	
+UniProtKB:G3V323	GPX2	
+UniProtKB:P59796	GPX6	glutathione peroxidase pthr11592
+UniProtKB:A0A087WUQ6	GPX1	
+UniProtKB:A0A087X2I2	GPX4	
+UniProtKB:A0A087WTS0	GPX2	
+UniProtKB:A0A087WT12	GPX4	
+UniProtKB:Q6NXQ3	GPX3	
+UniProtKB:E7ETY7	GPX8	
+UniProtKB:R4GNE4	GPX4	
+UniProtKB:O75715	GPX5	glutathione peroxidase pthr11592
+UniProtKB:F5H4R2	SOD2	
+UniProtKB:F5GYZ5	SOD2	
+UniProtKB:F5GXZ9	SOD2	
+UniProtKB:A6NIW5	PRDX2	
+UniProtKB:G5E9P6	SOD2	
+UniProtKB:A0A0C4DFU1	SOD2	
+UniProtKB:F5H3C5	SOD2	
+UniProtKB:G8JLJ2	SOD2	
+UniProtKB:A0A0C4DG56	SOD2	
+UniProtKB:P11678	EPX	oxidase/peroxidase pthr11475
+UniProtKB:Q15165	PON2	paraoxonase pthr11799
+UniProtKB:H7C3T4	PRDX4	
+UniProtKB:A0A0A0MRQ5	PRDX1	
+UniProtKB:Q8WWN9	IPCEF1	connector enchancer of kinase suppressor of ras pthr12844
+UniProtKB:H0YAV0	PXDNL	
+UniProtKB:H0YK19	DUOX1	
+UniProtKB:K4DIA6	PXDNL	
+UniProtKB:J3KNB5	GPX8	
+UniProtKB:H0Y3I2	LPO	
+UniProtKB:J3KT11	LPO	
+UniProtKB:F5H386	LPO	
+UniProtKB:J3QSD8	LPO	
+UniProtKB:P50238	CRIP1	family not named pthr24208
+UniProtKB:P18283	GPX2	glutathione peroxidase pthr11592
+UniProtKB:Q96SL4	GPX7	glutathione peroxidase pthr11592
+UniProtKB:Q8TED1	GPX8	glutathione peroxidase pthr11592
+UniProtKB:Q9Y6P5	SESN1	p53 regulated pa26 nuclear protein sestrin pthr12474
+UniProtKB:O43820	HYAL3	hyaluronidase pthr11769
+UniProtKB:P19801	AOC1	copper amine oxidase pthr10638
+UniProtKB:Q9NNW7	TXNRD2	disulfide oxidoreductase pthr22912
+UniProtKB:P58004	SESN2	p53 regulated pa26 nuclear protein sestrin pthr12474
+UniProtKB:P08294	SOD3	superoxide dismutase [cu-zn]-related pthr10003
+UniProtKB:O14618	CCS	superoxide dismutase [cu-zn]-related pthr10003
+UniProtKB:P32119	PRDX2	thioredoxin peroxidase pthr10681
+UniProtKB:J3KNF4	CCS	
+UniProtKB:E9PP76	CCS	
+UniProtKB:E9PK03	CCS	
+UniProtKB:P22079	LPO	oxidase/peroxidase pthr11475
+UniProtKB:Q9UBX5	FBLN5	family not named pthr24048
+UniProtKB:E9PLN8	E9PLN8	vitamin k epoxide reductase complex, subunit 1 pthr14519
+UniProtKB:P23141	CES1	carboxylesterase pthr11559
+UniProtKB:Q16874	P450-CYP21B	family not named pthr24281
+UniProtKB:Q16495	TPO	
+UniProtKB:A1KZ92	PXDNL	oxidase/peroxidase pthr11475
+UniProtKB:Q9BRX8	FAM213A	
+UniProtKB:Q86VQ6	TXNRD3	
+UniProtKB:J3QSF7	MPO	
+UniProtKB:P10620	MGST1	microsomal glutathione s-transferase 1 pthr10689
+UniProtKB:Q16496	TPO	
+UniProtKB:H0Y6H4	TPO	
+UniProtKB:A0A0G2JR90	TPO	
+UniProtKB:A0A0G2JR79	TPO	
+UniProtKB:A0A0G2JR31	TPO	
+UniProtKB:A0A0G2JP53	TPO	
+UniProtKB:A0A0G2JNN7	TPO	
+UniProtKB:A0A0G2JRZ1	TPO	
+UniProtKB:A0A0G2JRX3	TPO	
+UniProtKB:A0A0G2JS21	TPO	
+UniProtKB:H7C5B6	TPO	
+UniProtKB:H7C1F5	TPO	
+UniProtKB:Q9BRA2	TXNDC17	42-9-9 protein-related pthr12452
+UniProtKB:P21266	GSTM3	glutathione s-transferase pthr11571
+UniProtKB:Q16853	AOC3	copper amine oxidase pthr10638
+UniProtKB:P09488	GSTM1	glutathione s-transferase pthr11571
+UniProtKB:P22352	GPX3	glutathione peroxidase pthr11592
+UniProtKB:Q969Z3	MARC2	molybdopterin cofactor sulfurase (mosc) pthr14237
+UniProtKB:Q15166	PON3	paraoxonase pthr11799
+UniProtKB:Q5VT66	MARC1	molybdopterin cofactor sulfurase (mosc) pthr14237
+UniProtKB:Q5T011	SZT2	family not named pthr14918
+UniProtKB:P07148	FABP1	fatty acid binding protein pthr11955
+UniProtKB:Q86VQ3	TXNDC2	thioredoxin pthr10438
+UniProtKB:P27544	CERS1	longevity assurance factor 1 (lag1) pthr12560
+UniProtKB:Q16881	TXNRD1	disulfide oxidoreductase pthr22912
+UniProtKB:Q8IV36	HID1	family not named pthr21575
+UniProtKB:Q9BX84	TRPM6	transient receptor potential cation channel, subfamily m, member 6 pthr13800
+UniProtKB:P36969	GPX4	glutathione peroxidase pthr11592
+UniProtKB:C9J511	TPO	
+UniProtKB:Q5T442	GJC2	connexin pthr11984
+UniProtKB:H0YBQ0	TXNRD3	
+UniProtKB:H0YBI6	TXNRD3	
+UniProtKB:D3YTF8	TXNRD2	
+UniProtKB:F8W809	TXNRD1	
+UniProtKB:A0A087WSW9	TXNRD1	
+UniProtKB:A0A096LNN4	TXNRD2	
+UniProtKB:E9PFM6	TPO	
+UniProtKB:A0A096LPK7	TXNRD2	
+UniProtKB:E9PIR7	TXNRD1	
+UniProtKB:P00390	GSR	disulfide oxidoreductase pthr22912
+UniProtKB:Q06830	PRDX1	thioredoxin peroxidase pthr10681
+UniProtKB:O14880	MGST3	microsomal glutathione s-transferase pthr10250
+UniProtKB:O14863	SLC30A4	cation efflux protein/ zinc transporter pthr11562
+UniProtKB:Q6IB77	GLYAT	l-coa n-acyltransferase-related pthr15298
+UniProtKB:Q86WA6	BPHL	
+UniProtKB:Q6ZYK7	COX-2	
+UniProtKB:A0A087X296	PTGS1	
+UniProtKB:X6RJD6	PTGS1	
+UniProtKB:A0A0C4DFU2	SOD2	
+UniProtKB:Q9H4Y5	GSTO2	glutathione s-transferase, gst, superfamily, gst domain containing pthr11260
+UniProtKB:Q13268	DHRS2	family not named pthr24322
+UniProtKB:P69905	HBA1	hemoglobin-related pthr11442
+UniProtKB:Q9BQE4	VIMP	family not named pthr32164
+UniProtKB:C9JZT2	EIF2AK2	
+UniProtKB:F8WBH4	EIF2AK2	
+UniProtKB:Q8WWM9	CYGB	hemoglobin-related pthr11442
+UniProtKB:X6RAN8	DUOX2	
+UniProtKB:P23458	JAK1	tyrosine-protein kinase pthr24418
+UniProtKB:Q12794	HYAL1	hyaluronidase pthr11769
+UniProtKB:Q92626	PXDN	oxidase/peroxidase pthr11475
+UniProtKB:P02768	ALB	serum albumin-related pthr11385
+UniProtKB:P15559	NQO1	nad(p)h oxidoreductase-related pthr10204
+UniProtKB:P23219	PTGS1	prostaglandin g/h synthase pthr11903
+UniProtKB:Q8WVM8	SCFD1	vesicle protein sorting-associated pthr11679
+UniProtKB:Q13162	PRDX4	thioredoxin peroxidase pthr10681
+UniProtKB:P30793	GCH1	gtp cyclohydrolase i pthr11109
+UniProtKB:Q7L1T6	CYB5R4	nadh-cytochrome b5 reductase pthr19370
+UniProtKB:P05164	MPO	oxidase/peroxidase pthr11475
+UniProtKB:P30711	GSTT1	glutathione s-transferase, gst, superfamily, gst domain containing pthr11260
+UniProtKB:Q9UN76	SLC6A14	sodium/chloride dependent transporter pthr11616
+UniProtKB:Q9Y5Z9	UBIAD1	1,4-dihydroxy-2-naphthoate octaprenyltransferase pthr13929
+UniProtKB:P25325	MPST	thiosulfate sulfertansferase pthr11364
+UniProtKB:Q96PS8	AQP10	aquaporin transporter pthr19139
+UniProtKB:P07202	TPO	oxidase/peroxidase pthr11475
+UniProtKB:Q9Y2Q3	GSTK1	glutathione s-transferase kappa pthr13887
+UniProtKB:Q16873	LTC4S	microsomal glutathione s-transferase pthr10250
+UniProtKB:P00374	DHFR	dihydrofolate reductase pthr11549
+UniProtKB:P13236	CCL4	small inducible cytokine a pthr12015
+UniProtKB:P34913	EPHX2	
+UniProtKB:P04179	SOD2	superoxide dismutase 2 pthr11404
+UniProtKB:P33076	CIITA	family not named pthr24106
+UniProtKB:P10415	BCL2	bcl-2 related pthr11256
+UniProtKB:P28161	GSTM2	glutathione s-transferase pthr11571
+UniProtKB:P41143	OPRD1	neuropeptides receptor pthr24229
+UniProtKB:Q9UBN7	HDAC6	histone deacetylase pthr10625
+UniProtKB:Q99735	MGST2	microsomal glutathione s-transferase pthr10250
+UniProtKB:P07900	HSP90AA1	heat shock protein 90 pthr11528
+UniProtKB:P04040	CAT	catalase pthr11465
+UniProtKB:O60674	JAK2	tyrosine-protein kinase pthr24418
+UniProtKB:P30048	PRDX3	thioredoxin peroxidase pthr10681
+UniProtKB:Q06413	MEF2C	mads box protein pthr11945
+UniProtKB:Q12891	HYAL2	hyaluronidase pthr11769
+UniProtKB:Q9UPY5	SLC7A11	amino acid transporter pthr11785
+UniProtKB:O43708	GSTZ1	glutathione s-transferase, gst, superfamily, gst domain containing pthr11260
+UniProtKB:Q9UHI5	SLC7A8	amino acid transporter pthr11785
+UniProtKB:P68871	HBB	hemoglobin-related pthr11442
+UniProtKB:O60260	PARK2	ariadne ring zinc finger pthr11685
+UniProtKB:Q96A56	TP53INP1	family not named pthr31671
+UniProtKB:P07203	GPX1	glutathione peroxidase pthr11592
+UniProtKB:P29474	NOS3	flavodoxin-related pthr19384
+UniProtKB:P14921	ETS1	ets pthr11849
+UniProtKB:P35354	PTGS2	prostaglandin g/h synthase pthr11903
+UniProtKB:P25713	MT3	metallothionein pthr23299
+UniProtKB:Q00987	MDM2	mdm2/4 pthr10360
+UniProtKB:P27169	PON1	paraoxonase pthr11799
+UniProtKB:Q86UT5	PDZD3	pdz domain containing protein pthr14191
+UniProtKB:P36544	CHRNA7	neurotransmitter gated ion channel pthr18945
+UniProtKB:P06727	APOA4	
+UniProtKB:Q9BXM7	PINK1	serine/threonine protein kinase pthr22972
+UniProtKB:P00441	SOD1	superoxide dismutase [cu-zn]-related pthr10003
+UniProtKB:P12757	SKIL	ski oncogene-related pthr10005
+UniProtKB:P13501	CCL5	small inducible cytokine a pthr12015
+UniProtKB:P18075	BMP7	tgf-beta family pthr11848
+UniProtKB:P04637	TP53	cellular tumor antigen p53 pthr11447
+UniProtKB:P20160	AZU1	family not named pthr24271
+UniProtKB:O95445	APOM	family not named pthr32028
+UniProtKB:Q9UHI7	SLC23A1	xanthine-uracil / vitamin c permease family member pthr11119
+UniProtKB:P30044	PRDX5	peroxiredoxin pthr10430
+UniProtKB:P01375	TNF	tumor necrosis factor family member pthr11471
+UniProtKB:Q07812	BAX	bcl-2 related pthr11256
+UniProtKB:P37840	SNCA	synuclein pthr13820
+UniProtKB:O15247	CLIC2	glutathione s-transferase, gst, superfamily, gst domain containing pthr11260
+UniProtKB:P10147	CCL3	small inducible cytokine a pthr12015
+UniProtKB:P78417	GSTO1	glutathione s-transferase, gst, superfamily, gst domain containing pthr11260
+UniProtKB:Q04656	ATP7A	family not named pthr24093
+UniProtKB:Q99497	PARK7	thij/pfpi pthr11019
+UniProtKB:Q5S007	LRRK2	leucine-rich repeat-containing protein pthr23155
+UniProtKB:P31645	SLC6A4	sodium/chloride dependent transporter pthr11616
+UniProtKB:P35869	AHR	aryl hydrocarbon receptor pthr10649
+UniProtKB:P14416	DRD2	adrenergic receptor-related g-protein coupled receptor pthr24248
+RNAcentral:URS000039ED8D_9606	URS000039ED8D_9606	
+UniProtKB:Q8N5P1	ZC3H8	family not named pthr13119
+UniProtKB:P02649	APOE	apolipoprotein pthr18976

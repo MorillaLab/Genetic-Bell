@@ -1,0 +1,622 @@
+UniProtKB:Q9HCE7	SMURF1	hect domain ubiquitin-protein ligase pthr11254
+UniProtKB:Q9HC21	SLC25A19	family not named pthr24089
+UniProtKB:Q9HBF4	ZFYVE1	zinc finger fyve domain containing protein pthr22835
+UniProtKB:Q9HB90	RRAGC	ras-related gtp binding rag/gtr(yeast) pthr11259
+UniProtKB:Q674R7	ATG9B	
+UniProtKB:P54619	PRKAG1	amp-activated protein kinase, gamma regulatory subunit pthr13780
+UniProtKB:Q9GZQ8	MAP1LC3B	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:Q9GZU3	TMEM39B	uncharacterized pthr12995
+UniProtKB:Q9H2M9	RAB3GAP2	rab3-gap regulatory domain pthr12472
+UniProtKB:Q9H492	MAP1LC3A	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:Q676U5	ATG16L1	autophagy protein 16-like pthr19878
+UniProtKB:P42336	PIK3CA	phosphatidylinositol kinase pthr10048
+UniProtKB:P42338	PIK3CB	phosphatidylinositol kinase pthr10048
+UniProtKB:P42345	MTOR	ataxia telangiectasia mutated (atm)-related pthr11139
+UniProtKB:Q05639	EEF1A2	translation factor pthr23115
+UniProtKB:Q9UQN3	CHMP2B	charged multivesicular body protein pthr10476
+UniProtKB:Q9H0Y0	ATG10	family not named pthr14957
+UniProtKB:P48595	SERPINB10	serine protease inhibitor, serpin pthr11461
+UniProtKB:Q00535	CDK5	cell division protein kinase pthr24056
+UniProtKB:Q5U5Q3	MEX3C	ring finger and kh domain containing protein 1 pthr23285
+UniProtKB:Q5U651	RASIP1	family not named pthr16027
+UniProtKB:P07900	HSP90AA1	heat shock protein 90 pthr11528
+UniProtKB:Q15746	MYLK	myosin light chain kinase-related pthr22964
+UniProtKB:Q00597	FANCC	fanconi anemia group c protein fancc pthr16798
+UniProtKB:Q9GZZ8	LACRT	
+UniProtKB:Q01813	PFKP	phosphofructokinase pthr13697
+UniProtKB:Q8IVB5	LIX1L	family not named pthr31139
+RNAcentral:URS0000324096_9606	URS0000324096_9606	
+UniProtKB:Q13488	TCIRG1	vacuolar proton atpases pthr11629
+UniProtKB:Q13467	FZD5	frizzled pthr11309
+UniProtKB:Q13315	ATM	ataxia telangiectasia mutated (atm)-related pthr11139
+UniProtKB:Q9NZU5	LMCD1	family not named pthr24211
+UniProtKB:Q13286	CLN3	
+UniProtKB:Q9NYY3	PLK2	serine/threonine-protein kinase plk pthr24345
+UniProtKB:P53355	DAPK1	myosin light chain kinase-related pthr22964
+UniProtKB:Q6UXG2	KIAA1324	family not named pthr22727
+UniProtKB:P36543	ATP6V1E1	vacuolar atp synthase subunit e pthr11583
+UniProtKB:P52630	STAT2	signal transducer and activator of transcription pthr11801
+UniProtKB:P52789	HK2	hexokinase pthr19443
+UniProtKB:Q8IYT8	ULK2	serine/threonine-protein kinase unc-51-related pthr24348
+UniProtKB:P36956	SREBF1	sterol regulatory element-binding protein pthr12565
+UniProtKB:Q13976	PRKG1	cyclic nucleotide-dependent protein kinase pthr24353
+UniProtKB:Q13938	CAPS	ef-hand calcium-binding domain containing protein pthr10891
+UniProtKB:Q86Y46	KRT73	intermediate filament pthr23239
+UniProtKB:Q86XE0	SNX32	sorting nexin pthr10555
+UniProtKB:Q86XD5	FAM131B	family not named pthr15736
+UniProtKB:Q14088	RAB33A	family not named pthr24073
+UniProtKB:Q07817	BCL2L1	bcl-2 related pthr11256
+UniProtKB:P01579	IFNG	interferon gamma pthr11419
+UniProtKB:Q9P2Y5	UVRAG	family not named pthr15157
+UniProtKB:P02538	KRT6A	intermediate filament pthr23239
+UniProtKB:Q9P2M4	TBC1D14	tbc1 domain family member gtpase-activating protein pthr22957
+UniProtKB:Q9P2K8	EIF2AK4	eukaryotic translation initiation factor 2-alpha kinase (eif2-alpha kinase)-related pthr11042
+UniProtKB:Q9P1W9	PIM2	serine/threonine protein kinase pthr22984
+UniProtKB:Q9P275	USP36	
+UniProtKB:P01298	PPY	neuropeptide y/pancreatic hormone/peptide yy pthr10533
+UniProtKB:Q6ZNE5	ATG14	family not named pthr32407
+UniProtKB:Q08379	GOLGA2	golgin subfamily a member-related pthr10881
+UniProtKB:O14964	HGS	vhs domain containing protein family pthr13856
+UniProtKB:P68431	HIST1H3A	histone h3 pthr11426
+UniProtKB:P68402	PAFAH1B2	platelet-activating factor acetylhydrolase pthr11852
+UniProtKB:Q9BXC0	HCAR1	purinoceptor-related g-protein coupled receptor pthr24231
+UniProtKB:Q9BXM7	PINK1	serine/threonine protein kinase pthr22972
+UniProtKB:Q9BY43	CHMP4A	
+UniProtKB:Q9BXS4	TMEM59	family not named pthr32181
+UniProtKB:Q9BXW4	MAP1LC3C	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:O60347	TBC1D12	tbc1 domain family member gtpase-activating protein pthr22957
+UniProtKB:Q9BYT1	SLC17A9	sodium-dependent phosphate transporters pthr11662
+UniProtKB:O60260	PARK2	ariadne ring zinc finger pthr11685
+UniProtKB:O60238	BNIP3L	family not named pthr32224
+UniProtKB:Q9BSB4	ATG101	uncharacterized pthr13292
+UniProtKB:Q92830	KAT2A	falz-related bromodomain-containing proteins pthr22880
+UniProtKB:Q9BTA9	WAC	family not named pthr15911
+UniProtKB:Q92783	STAM	vhs domain containing protein family pthr13856
+UniProtKB:Q92622	RUBCN	pleckstrin homology domain containing protein pthr12326
+UniProtKB:Q9NYF5	FAM13B	fam13 pthr15904
+UniProtKB:Q13137	CALCOCO2	
+UniProtKB:Q13131	PRKAA1	serine/threonine kinase pthr24343
+UniProtKB:Q13112	CHAF1B	chromatin assembly factor 1 subunit b pthr15271
+UniProtKB:Q13105	ZBTB17	family not named pthr24375
+UniProtKB:Q13099	IFT88	tetratricopeptide repeat protein, tpr pthr23083
+UniProtKB:Q9NX57	RAB20	family not named pthr24073
+UniProtKB:Q9NVS9	PNPO	pyridoxine-5-phosphate oxidase pthr10851
+UniProtKB:Q92609	TBC1D5	tbc1 domain family member gtpase-activating protein pthr22957
+UniProtKB:Q9BWH2	FUNDC2	fun14 domain containing pthr21346
+UniProtKB:Q9BWV1	BOC	cell adhesion molecule pthr10489
+UniProtKB:O00214	LGALS8	galectin pthr11346
+UniProtKB:Q659C4	LARP1B	lupus la protein-related pthr22792
+UniProtKB:Q9Y2I7	PIKFYVE	chaperonin pthr11353
+UniProtKB:Q9C035	TRIM5	family not named pthr24103
+UniProtKB:Q92995	USP13	family not named pthr24006
+UniProtKB:Q92968	PEX13	peroxisomal membrane protein pex13 pthr19332
+UniProtKB:Q92934	BAD	family not named pthr32380
+UniProtKB:Q9BRG1	VPS25	vacuolar protein sorting-associated protein vps25 pthr13149
+UniProtKB:Q92915	FGF14	heparin-binding growth factor family member/fgf pthr11486
+UniProtKB:Q9BRK0	REEP2	hva22-like proteins pthr12300
+UniProtKB:Q709C8	VPS13C	vacuolar protein sorting-associated protein (vps13) pthr16166
+UniProtKB:Q9NS69	TOMM22	mitochondrial import receptor subunit tom22 pthr12504
+UniProtKB:P00519	ABL1	tyrosine-protein kinase pthr24418
+UniProtKB:Q9NR16	CD163L1	lysyl oxidase-related pthr19331
+UniProtKB:Q9NQL2	RRAGD	ras-related gtp binding rag/gtr(yeast) pthr11259
+UniProtKB:Q9NPY3	CD93	family not named pthr24838
+UniProtKB:Q9NQ11	ATP13A2	family not named pthr24093
+UniProtKB:Q9NPI8	FANCF	family not named pthr14449
+UniProtKB:Q9NPI7	KRCC1	double-stranded rna-binding zinc finger protein pthr23067
+UniProtKB:Q9NP99	TREM1	triggering receptor expressed on myeloid cells 1 pthr19357
+UniProtKB:Q9NP79	VTA1	lyst-interacting protein lip5 (dopamine responsive protein drg-1) pthr12741
+UniProtKB:Q8IVY1	C1orf210	family not named pthr31450
+UniProtKB:P78559	MAP1A	microtubule-associated protein pthr13843
+UniProtKB:P51397	DAP	death-associated protein 1 pthr13177
+UniProtKB:Q9NW38	FANCL	ubiquitin ligase protein phf9 (fanconi anemia group l protein) pthr13206
+UniProtKB:Q9NVR5	DNAAF2	family not named pthr16053
+UniProtKB:Q9NV64	TMEM39A	uncharacterized pthr12995
+UniProtKB:P00739	HPR	family not named pthr24265
+UniProtKB:P35498	SCN1A	voltage-gated cation channel (calcium and sodium) pthr10037
+UniProtKB:O96008	TOMM40	mitochondrial import receptor subunit tom40 pthr10802
+UniProtKB:Q86Y82	STX12	syntaxin pthr19957
+UniProtKB:P04632	CAPNS1	calpain pthr10183
+UniProtKB:Q12852	MAP3K12	serine-threonine protein kinase pthr23257
+UniProtKB:Q12778	FOXO1	family not named pthr11829
+UniProtKB:Q12772	SREBF2	sterol regulatory element-binding protein pthr12565
+UniProtKB:Q93086	P2RX5	p2x purinoceptor pthr10125
+UniProtKB:Q93050	ATP6V0A1	vacuolar proton atpases pthr11629
+UniProtKB:Q12983	BNIP3	family not named pthr32224
+UniProtKB:P27449	ATP6V0C	v-type proton atpase proteolipid subunit pthr10263
+UniProtKB:O95670	ATP6V1G2	vacuolar atp synthase subunit g pthr12713
+UniProtKB:Q9Y399	MRPS2	30s ribosomal protein s2 (prokaryotic and organellar) pthr12534
+UniProtKB:Q09472	EP300	cbp/p300-related pthr13808
+UniProtKB:Q6IAA8	LAMTOR1	uncharacterized pthr13401
+UniProtKB:Q6FHJ7	SFRP4	frizzled pthr11309
+UniProtKB:Q9NRR5	UBQLN4	ubiquilin pthr10677
+UniProtKB:Q9BY60	GABARAPL3	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:P09429	HMGB1	swi/snf-related chromatin binding protein pthr13711
+UniProtKB:P16144	ITGB4	integrin beta subunit pthr10082
+UniProtKB:Q9Y2L5	TRAPPC8	transport protein (trapp) pthr12975
+UniProtKB:A8MW95	BECN2	
+UniProtKB:P22392	NME2	nucleoside diphosphate kinase pthr11349
+UniProtKB:Q8WVM8	SCFD1	vesicle protein sorting-associated pthr11679
+UniProtKB:Q9BZJ0	CRNKL1	pre-mrna splicing factor pthr11246
+UniProtKB:Q9UNH7	SNX6	
+UniProtKB:O95140	MFN2	transmembrane gtpase fzo1 pthr10465
+UniProtKB:P08758	ANXA5	annexin pthr10502
+UniProtKB:P08621	SNRNP70	u1 small nuclear ribonucleoprotein 70 kd pthr13952
+UniProtKB:O75351	VPS4B	aaa atpase pthr23074
+UniProtKB:P08581	MET	tyrosine-protein kinase receptor pthr24416
+UniProtKB:H7C469	H7C469	aspartyl proteases pthr13683
+UniProtKB:O00267	SUPT5H	suppressor of ty 5 pthr11125
+UniProtKB:O00391	QSOX1	quiescin q6-related sulfhydryl oxidase pthr22897
+UniProtKB:O14802	POLR3A	dna-directed rna polymerase pthr19376
+UniProtKB:O00429	DNM1L	dynamin pthr11566
+UniProtKB:O00459	PIK3R2	phosphatidylinositol 3-kinase regulatory subunit pthr10155
+UniProtKB:O00469	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase/glycosyltransferase 25 family member pthr10730
+UniProtKB:O00488	ZNF593	acyl carrier protein/zinc finger protein 593-related pthr20863
+UniProtKB:Q9ULQ1	TPCN1	voltage-gated cation channel (calcium and sodium) pthr10037
+UniProtKB:Q6BDI9	REP15	
+UniProtKB:Q9Y5X3	SNX5	sorting nexin pthr10555
+UniProtKB:Q9Y5W7	SNX14	sorting nexin pthr22775
+UniProtKB:Q9Y5L2	HILPDA	hypoxia-inducible protein 2 pthr16886
+UniProtKB:Q9Y4Z0	LSM4	small nuclear ribonucleoprotein sm pthr23338
+UniProtKB:P30531	SLC6A1	sodium/chloride dependent transporter pthr11616
+UniProtKB:Q9Y577	TRIM17	family not named pthr24103
+UniProtKB:Q9Y548	YIPF1	uncharacterized pthr12822
+UniProtKB:Q6UX65	DRAM2	fasting-inducible integral membrane protein tm6p1-related pthr21324
+UniProtKB:Q9Y478	PRKAB1	5'-amp-activated protein kinase , beta subunit pthr10343
+UniProtKB:Q9Y3I1	FBXO7	family not named pthr15537
+UniProtKB:Q9Y3E7	CHMP3	charged multivesicular body protein pthr10476
+UniProtKB:Q9Y3D6	FIS1	tetratricopeptide repeat protein 11 (tpr repeat protein 11) pthr13247
+UniProtKB:P14210	HGF	family not named pthr24272
+UniProtKB:P14136	GFAP	intermediate filament pthr23239
+UniProtKB:P14678	SNRPB	small nuclear ribonucleoprotein-associated protein b and n pthr10701
+UniProtKB:O75015	FCGR3B	
+UniProtKB:O75031	HSF2BP	family not named pthr15434
+UniProtKB:Q9UMX0	UBQLN1	ubiquilin pthr10677
+UniProtKB:P05026	ATP1B1	sodium/potassium-dependent atpase beta subunit pthr11523
+UniProtKB:O75460	ERN1	ire1-related pthr13954
+UniProtKB:O75486	SUPT3H	
+UniProtKB:P07339	CTSD	aspartyl proteases pthr13683
+UniProtKB:Q9NVM1	EVA1B	
+UniProtKB:Q9NVP4	DZANK1	family not named pthr16058
+UniProtKB:O15118	NPC1	patched-related pthr10796
+UniProtKB:P41159	LEP	leptin pthr11724
+UniProtKB:O15342	ATP6V0E1	vacuolar atp synthase subunit h pthr12263
+UniProtKB:O15270	SPTLC2	class ii aminotransferase/8-amino-7-oxononanoate synthase pthr13693
+UniProtKB:O15269	SPTLC1	class ii aminotransferase/8-amino-7-oxononanoate synthase pthr13693
+UniProtKB:Q8WU08	STK32A	serine/threonine-protein kinase pthr24356
+UniProtKB:Q96S99	PLEKHF1	zinc finger fyve domain containing protein pthr22835
+UniProtKB:P25713	MT3	metallothionein pthr23299
+UniProtKB:Q96EB6	SIRT1	chromatin regulatory protein sir2 pthr11085
+UniProtKB:Q96EY5	MVB12A	family not named pthr31612
+UniProtKB:Q96E29	MTERF3	cgi-12 protein-related pthr13068
+UniProtKB:P31644	GABRA5	neurotransmitter gated ion channel pthr18945
+UniProtKB:Q96H35	RBM18	family not named pthr21245
+UniProtKB:P25106	ACKR3	chemokine receptor pthr24227
+UniProtKB:Q96A05	ATP6V1E2	vacuolar atp synthase subunit e pthr11583
+UniProtKB:Q96A29	SLC35C1	solute carrier family 35 pthr11132
+UniProtKB:Q86UE4	MTDH	lysine-rich ceacam1 co-isolated protein (lyric protein) pthr23251
+UniProtKB:Q8N726	CDKN2A	
+UniProtKB:O95721	SNAP29	synaptosomal associated protein pthr19305
+UniProtKB:Q9P0U1	TOMM7	translocase of outer membrane subunit tom7 pthr16463
+UniProtKB:Q9P0V3	SH3BP4	sh3 domain-containing protein pthr15603
+UniProtKB:O14793	MSTN	tgf-beta family pthr11848
+UniProtKB:P40222	TXLNA	taxilin pthr16127
+UniProtKB:Q9P267	MBD5	methyl-cpg binding protein, drosophila pthr16112
+UniProtKB:O14649	KCNK3	potassium channel, subfamily k pthr11003
+UniProtKB:O95210	STBD1	family not named pthr32450
+UniProtKB:O95196	CSPG5	chondroitin sulfate proteoglycan 5 -related pthr15381
+UniProtKB:O95166	GABARAP	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:P40925	MDH1	malate dehydrogenase pthr23382
+UniProtKB:P27105	STOM	band 7 protein-related pthr10264
+UniProtKB:P01031	C5	macroglobulin/complement pthr11412
+UniProtKB:P68104	EEF1A1	translation factor pthr23115
+UniProtKB:Q9BZL6	PRKD2	protein kinase c, mu pthr22968
+UniProtKB:O95471	CLDN7	claudin pthr12002
+UniProtKB:O95352	ATG7	ubiquitin-activating enzyme e1 pthr10953
+UniProtKB:Q15831	STK11	serine/threonine-protein kinase pthr24347
+UniProtKB:P19784	CSNK2A2	casein kinase ii subunit alpha pthr24054
+UniProtKB:P19484	TFEB	basic helix-loop-helix/leucine zipper transcription factor pthr10014
+UniProtKB:P19474	TRIM21	family not named pthr24103
+UniProtKB:P19012	KRT15	intermediate filament pthr23239
+UniProtKB:Q8NHG7	SVIP	
+UniProtKB:Q9H0R8	GABARAPL1	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:Q8N8Y2	ATP6V0D2	vacuolar atp synthase subunit ac39 pthr11028
+UniProtKB:Q8N8N0	RNF152	family not named pthr25462
+UniProtKB:P63167	DYNLL1	dynein light chain pthr11886
+UniProtKB:Q9H082	RAB33B	family not named pthr24073
+UniProtKB:Q8N1F7	NUP93	nuclear pore complex protein nup93 (nucleoporin nup93) (dead eye protein) pthr11225
+UniProtKB:Q8N0T1	C8orf59	
+UniProtKB:Q8N122	RPTOR	family not named pthr12848
+UniProtKB:Q8NAA4	ATG16L2	autophagy protein 16-like pthr19878
+UniProtKB:Q02750	MAP2K1	mapkk/mekk pthr24360
+UniProtKB:Q8N682	DRAM1	fasting-inducible integral membrane protein tm6p1-related pthr21324
+UniProtKB:Q8N5K1	CISD2	family not named pthr13680
+UniProtKB:Q8N5C8	TAB3	transcription factor btf3 pthr10351
+UniProtKB:Q8WYN0	ATG4A	apg4 autophagy 4-related pthr22624
+UniProtKB:Q8N4H5	TOMM5	
+UniProtKB:Q8N485	LIX1	family not named pthr31139
+UniProtKB:P53990	IST1	
+UniProtKB:Q9H444	CHMP4B	snf7 - related pthr22761
+UniProtKB:Q8IYM9	TRIM22	family not named pthr24103
+UniProtKB:Q99570	PIK3R4	phosphoinositide 3-kinase regulatory subunit 4 pthr17583
+UniProtKB:Q8NHX9	TPCN2	voltage-gated cation channel (calcium and sodium) pthr10037
+UniProtKB:Q8NHE4	ATP6V0E2	vacuolar atp synthase subunit h pthr12263
+UniProtKB:Q8IZQ1	WDFY3	beige/beach-related pthr13743
+UniProtKB:Q70CQ3	USP30	family not named pthr24006
+UniProtKB:P46779	RPL28	60s ribosomal protein l28 pthr10544
+UniProtKB:Q8NEZ2	VPS37A	williams-beuren syndrome critical region protein-related pthr13678
+UniProtKB:P46934	NEDD4	hect domain ubiquitin-protein ligase pthr11254
+UniProtKB:P51116	FXR2	fragile x mental retardation syndrome-related protein pthr10603
+UniProtKB:Q8IVP5	FUNDC1	fun14 domain containing pthr21346
+UniProtKB:Q9H0U4	RAB1B	family not named pthr24073
+UniProtKB:Q9H1N7	SLC35B3	solute carrier family 35 member b pthr10778
+UniProtKB:Q9UK85	DKKL1	family not named pthr15602
+UniProtKB:Q9UKE5	TNIK	mitogen-activated kinase kinase kinase pthr24361
+UniProtKB:P62314	SNRPD1	small nuclear ribonucleoprotein sm pthr23338
+UniProtKB:P62306	SNRPF	small nuclear ribonucleoprotein f (snrnp-f) pthr11021
+UniProtKB:Q5VST9	OBSCN	coiled-coil domain-containing protein pthr19897
+UniProtKB:Q9H6K1	C6orf106	ovarian carcinoma antigen ca125-related pthr20930
+UniProtKB:Q01081	U2AF1	u2 snrnp auxiliary factor, small subunit pthr12620
+UniProtKB:O43293	DAPK3	myosin light chain kinase-related pthr22964
+UniProtKB:Q5VZM2	RRAGB	ras-related gtp binding rag/gtr(yeast) pthr11259
+UniProtKB:Q9H7Z6	KAT8	histone acetyltransferase pthr10615
+UniProtKB:Q9H269	VPS16	vacuolar protein sorting vps16 pthr12811
+UniProtKB:Q9H1Y0	ATG5	autophagy protein 5 pthr13040
+UniProtKB:P62979	RPS27A	ubiquitin pthr10666
+UniProtKB:P49840	GSK3A	glycogen synthase kinase-3 alpha pthr24057
+UniProtKB:Q9UN37	VPS4A	aaa atpase pthr23074
+UniProtKB:O43312	MTSS1	actin bundling/missing in metastasis-related pthr15708
+UniProtKB:Q9H6L5	FAM134B	family not named pthr32165
+UniProtKB:Q6ZVL6	KIAA1549L	uncharacterized pthr21590
+UniProtKB:Q6PKG0	LARP1	lupus la protein-related pthr22792
+UniProtKB:O43741	PRKAB2	5'-amp-activated protein kinase , beta subunit pthr10343
+UniProtKB:Q6PHR2	ULK3	serine/threonine-protein kinase unc-51-related pthr24348
+UniProtKB:Q5T8D3	ACBD5	acyl-coa-binding protein, acbp pthr23310
+UniProtKB:O75143	ATG13	uncharacterized pthr13430
+UniProtKB:Q9H8X2	IPPK	inositol polyphosphate kinase 1 pthr14456
+UniProtKB:P10915	HAPLN1	aggrecan/versican proteoglycan pthr22804
+UniProtKB:Q96N22	ZNF681	family not named pthr24377
+UniProtKB:Q96GC9	VMP1	membrane-associated progesterone receptor component-related pthr10281
+UniProtKB:Q96FZ7	CHMP6	snf7 - related pthr22761
+UniProtKB:P10176	COX8A	cytochrome c oxidase polypeptide viii pthr16717
+UniProtKB:Q96FJ2	DYNLL2	dynein light chain pthr11886
+UniProtKB:P10092	CALCB	calcitonin-related pthr10505
+UniProtKB:Q96F24	NRBF2	nuclear receptor binding factor 2 pthr14964
+UniProtKB:Q96QP1	ALPK1	alpha kinase/elongation factor 2 kinase pthr14187
+UniProtKB:Q96QK1	VPS35	vacuolar sorting protein 35 pthr11099
+UniProtKB:P04062	GBA	glucosylceramidase pthr11069
+UniProtKB:Q96LT7	C9orf72	family not named pthr31855
+UniProtKB:P10636	MAPT	microtubule-associated protein pthr11501
+UniProtKB:P10619	CTSA	serine protease family s10 serine carboxypeptidase pthr11802
+UniProtKB:Q16654	PDK4	pyruvate dehydrogenase kinase pthr11947
+UniProtKB:Q96JD6	AKR1E2	aldo/keto reductase pthr11732
+UniProtKB:Q96JC1	VPS39	cnh domain containing pthr12894
+UniProtKB:P10415	BCL2	bcl-2 related pthr11256
+UniProtKB:Q96H20	SNF8	eap30 subunit of ell complex pthr12806
+UniProtKB:P04792	HSPB1	small heat-shock protein (hsp20) family pthr11527
+UniProtKB:Q9BV81	EMC6	uncharacterized pthr20994
+UniProtKB:P04406	GAPDH	glyceraldehyde 3-phosphate dehydrogenase pthr10836
+UniProtKB:P78549	NTHL1	a/g-specific adenine glycosylase/endonuclease iii pthr10359
+UniProtKB:P78537	BLOC1S1	gcn5-related pthr13073
+UniProtKB:P17861	XBP1	x-box transcription factor-related pthr13301
+UniProtKB:Q9Y484	WDR45	wd-repeat protein interacting with phosphoinosides (wipi)-related pthr11227
+UniProtKB:Q9Y487	ATP6V0A2	vacuolar proton atpases pthr11629
+UniProtKB:Q9Y4P8	WIPI2	wd-repeat protein interacting with phosphoinosides (wipi)-related pthr11227
+UniProtKB:Q9Y5K8	ATP6V1D	atp synthase subunit d pthr11671
+UniProtKB:Q7Z6L1	TECPR1	dysferlin-related pthr23250
+UniProtKB:P08579	SNRPB2	u1 small nuclear ribonucleoprotein a/u2 small nuclear ribonucleoprotein b pthr10501
+UniProtKB:Q9BRR0	ZKSCAN3	zinc finger protein pthr23226
+UniProtKB:Q0VGL1	LAMTOR4	
+UniProtKB:Q2TAZ0	ATG2A	family not named pthr13190
+UniProtKB:P05198	EIF2S1	eukaryotic translation initiation factor 2 subunit 1 pthr10602
+UniProtKB:P05109	S100A8	s100 calcium-binding protein pthr11639
+UniProtKB:Q96AX1	VPS33A	vesicle protein sorting-associated pthr11679
+UniProtKB:Q96B70	LENG9	nucleoporin-related pthr21495
+UniProtKB:Q96B49	TOMM6	mitochondrial import receptor subunit tom6 homolog pthr15527
+UniProtKB:Q96AJ9	VTI1A	vesicle transport v-snare protein vti1-related pthr21230
+UniProtKB:Q5D1E8	ZC3H12A	n4bp1-related pthr12876
+UniProtKB:Q4G0F5	VPS26B	vacuolar protein sorting 26 related pthr12233
+UniProtKB:P43235	CTSK	cysteine protease family c1-related pthr12411
+UniProtKB:Q969S6	TMEM203	fam11a, b protein pthr13568
+UniProtKB:Q969J2	ZKSCAN4	zinc finger protein pthr23226
+UniProtKB:Q969H0	FBXW7	f-box and wd40 domain protein pthr22844
+UniProtKB:Q8TEY7	USP33	family not named pthr24006
+UniProtKB:Q15118	PDK1	pyruvate dehydrogenase kinase pthr11947
+UniProtKB:Q8TDY2	RB1CC1	cgthba protein (-14 gene protein) pthr13222
+UniProtKB:Q15078	CDK5R1	cyclin dependant kinase-5 activator pthr23401
+UniProtKB:Q15042	RAB3GAP1	family not named pthr21422
+UniProtKB:Q8TDG2	ACTRT1	actin pthr11937
+UniProtKB:Q14694	USP10	family not named pthr24006
+UniProtKB:P82664	MRPS10	mitochondrial 28s ribosomal protein s10 pthr13334
+UniProtKB:Q14643	ITPR1	
+UniProtKB:Q14596	NBR1	ovarian carcinoma antigen ca125-related pthr20930
+UniProtKB:Q14512	FGFBP1	fgf binding protein-related pthr15258
+UniProtKB:Q96A56	TP53INP1	family not named pthr31671
+UniProtKB:Q14457	BECN1	beclin 1 pthr12768
+UniProtKB:Q15561	TEAD4	
+UniProtKB:Q15388	TOMM20	mitochondrial import receptor subunit tom20 pthr12430
+UniProtKB:Q15382	RHEB	family not named pthr24070
+UniProtKB:Q96BY7	ATG2B	family not named pthr13190
+UniProtKB:Q96DU7	ITPKC	inositol polyphosphate kinase pthr12400
+UniProtKB:Q96DT6	ATG4C	apg4 autophagy 4-related pthr22624
+UniProtKB:Q96CV9	OPTN	family not named pthr31553
+UniProtKB:A6NCE7	MAP1LC3B2	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:Q96CF2	CHMP4C	snf7 - related pthr22761
+UniProtKB:Q8TBX8	PIP4K2C	phosphatidylinositol-4-phosphate 5-kinase pthr23086
+UniProtKB:Q8TC71	SPATA18	family not named pthr21771
+UniProtKB:Q86VP3	PACS2	family not named pthr13280
+UniProtKB:Q86VN1	VPS36	family not named pthr13128
+UniProtKB:Q13615	MTMR3	myotubularin-related pthr10807
+UniProtKB:Q86UE8	TLK2	mixed lineage protein kinase pthr22974
+UniProtKB:Q13501	SQSTM1	sequestosome 1-related pthr15090
+UniProtKB:Q16666	IFI16	interferon-inducible protein aim2-related pthr12200
+UniProtKB:P06702	S100A9	s100 calcium-binding protein pthr11639
+UniProtKB:Q99497	PARK7	thij/pfpi pthr11019
+UniProtKB:Q99437	ATP6V0B	v-type proton atpase proteolipid subunit pthr10263
+UniProtKB:Q99689	FEZ1	zygin pthr12394
+UniProtKB:P09936	UCHL1	ubiquitin carboxyl-terminal hydrolase pthr10589
+UniProtKB:Q99816	TSG101	tumor susceptibility gene 101 protein-related pthr23306
+UniProtKB:P21781	FGF7	heparin-binding growth factor family member/fgf pthr11486
+UniProtKB:P15313	ATP6V1B1	atp synthase pthr15184
+UniProtKB:Q3MII6	TBC1D25	tbc1 domain family member gtpase-activating protein pthr22957
+UniProtKB:O00165	HAX1	family not named pthr14938
+UniProtKB:P15088	CPA3	protease family m14 carboxypeptidase a,b pthr11705
+UniProtKB:Q9P107	GMIP	family not named pthr15228
+UniProtKB:Q9UGJ0	PRKAG2	amp-activated protein kinase, gamma regulatory subunit pthr13780
+UniProtKB:Q9UJD0	RIMS3	rab3 interacting molecule (rim)-related pthr12157
+UniProtKB:B3EWF7	EPM2A	
+UniProtKB:P13473	LAMP2	lysosome-associated membrane glycoprotein pthr11506
+UniProtKB:Q9UBN7	HDAC6	histone deacetylase pthr10625
+UniProtKB:O75886	STAM2	vhs domain containing protein family pthr13856
+UniProtKB:O75820	ZNF189	family not named pthr24377
+UniProtKB:Q9UHY8	FEZ2	zygin pthr12394
+UniProtKB:P20339	RAB5A	family not named pthr24073
+UniProtKB:Q9UI12	ATP6V1H	v-type proton atpase subunit h pthr10698
+UniProtKB:Q9UHD9	UBQLN2	ubiquilin pthr10677
+UniProtKB:Q9UHA4	LAMTOR3	ragulator complex protein lamtor3 pthr13378
+UniProtKB:Q9UGI9	PRKAG3	amp-activated protein kinase, gamma regulatory subunit pthr13780
+UniProtKB:P21796	VDAC1	voltage-dependent anion-selective channel pthr11743
+UniProtKB:P21283	ATP6V1C1	v-type proton atpase subunit c pthr10137
+UniProtKB:P21281	ATP6V1B2	atp synthase pthr15184
+UniProtKB:Q9UKV3	ACIN1	apoptotic chromatin condensation inducer in the nucleus pthr14127
+UniProtKB:Q9ULC8	ZDHHC8	family not named pthr12349
+UniProtKB:Q9NV70	EXOC1	sec3/syntaxin-related pthr16092
+UniProtKB:Q9UKP4	ADAMTS7	adamts (a disintegrin and metalloprotease with thrombospondin motifs) protease pthr13723
+UniProtKB:Q9UKC9	FBXL2	f-box/leucine rich repeat protein pthr23125
+UniProtKB:Q9UJV3	MID2	family not named pthr24103
+UniProtKB:Q9UK41	VPS28	vacuolar protein sorting 28, isoform 2 (vps28) pthr12937
+UniProtKB:Q9UIL4	KIF25	family not named pthr24115
+UniProtKB:Q9UIL1	SCOC	short coiled coil protein pthr21614
+UniProtKB:Q9UIK4	DAPK2	myosin light chain kinase-related pthr22964
+UniProtKB:Q9UII2	ATPIF1	atpase inhibitor/5-formyltetrahydrofolate cyclo-ligase pthr23407
+UniProtKB:Q9UID3	VPS51	uncharacterized pthr15954
+UniProtKB:O75751	SLC22A3	family not named pthr24064
+UniProtKB:P07602	PSAP	saposin-related pthr11480
+UniProtKB:H0YG67	ATG16L2	
+UniProtKB:P07585	DCN	family not named pthr24369
+UniProtKB:P07550	ADRB2	adrenergic receptor-related g-protein coupled receptor pthr24248
+UniProtKB:H0YF72	ATG16L2	
+UniProtKB:Q9UQV4	LAMP3	lysosome-associated membrane glycoprotein pthr11506
+UniProtKB:O75436	VPS26A	vacuolar protein sorting 26 related pthr12233
+UniProtKB:P20073	ANXA7	annexin pthr10502
+UniProtKB:O75385	ULK1	serine/threonine-protein kinase unc-51-related pthr24348
+UniProtKB:P07384	CAPN1	calpain pthr10183
+UniProtKB:O75348	ATP6V1G1	vacuolar atp synthase subunit g pthr12713
+UniProtKB:Q9UPT5	EXOC7	exocyst complex protein exo70 pthr12542
+UniProtKB:P07205	PGK2	phosphoglycerate kinase pthr11406
+UniProtKB:Q9ULC3	RAB23	family not named pthr24073
+UniProtKB:Q86XT2	VPS37D	williams-beuren syndrome critical region protein-related pthr13678
+UniProtKB:P07197	NEFM	intermediate filament pthr23239
+UniProtKB:O75164	KDM4A	jumonji domain containing protein pthr10694
+UniProtKB:P07148	FABP1	fatty acid binding protein pthr11955
+UniProtKB:O60858	TRIM13	family not named pthr24103
+UniProtKB:Q9Y250	LZTS1	family not named pthr32498
+UniProtKB:Q9Y265	RUVBL1	ruvb-related reptin and pontin pthr11093
+UniProtKB:Q9Y2Q5	LAMTOR2	late endosomal/lysosomal mp1 interacting protein pthr13323
+UniProtKB:Q9Y2R2	PTPN22	protein-tyrosine phosphatase pthr19134
+UniProtKB:Q9Y371	SH3GLB1	sh3 domain-containing protein pthr10661
+UniProtKB:Q9Y2W2	WBP11	family not named pthr13361
+UniProtKB:P11234	RALB	family not named pthr24070
+UniProtKB:P11142	HSPA8	heat shock protein 70kda pthr19375
+UniProtKB:Q8NEY4	ATP6V1C2	v-type proton atpase subunit c pthr10137
+UniProtKB:Q8NFG4	FLCN	family not named pthr31441
+UniProtKB:P38606	ATP6V1A	atp synthase pthr15184
+UniProtKB:Q7KZI7	MARK2	map/microtubule affinity-regulating kinase pthr24346
+UniProtKB:C9J1C1	ATG4B	
+UniProtKB:A0A0U1RRJ2	WDR45	
+UniProtKB:A0A0A0MT61	ATG4A	
+UniProtKB:A0A0U1RR42	WDR45	
+UniProtKB:A0A0U1RQR1	WDR45	
+UniProtKB:A0A0U1RR06	WDR45	
+UniProtKB:A0A0U1RQM7	WDR45	
+UniProtKB:H0Y329	WDR45	
+UniProtKB:C9J0A8	WDR45	
+UniProtKB:G5E979	ATG4A	
+UniProtKB:A0A0U1RQG6	WDR45	
+UniProtKB:P51787	KCNQ1	voltage-gated potassium channel pthr11537
+UniProtKB:Q7L523	RRAGA	ras-related gtp binding rag/gtr(yeast) pthr11259
+UniProtKB:Q86TL0	ATG4D	apg4 autophagy 4-related pthr22624
+UniProtKB:Q9NYJ8	TAB2	transcription factor btf3 pthr10351
+UniProtKB:O96019	ACTL6A	actin pthr11937
+UniProtKB:Q9NNW5	WDR6	
+UniProtKB:O15553	MEFV	family not named pthr24103
+UniProtKB:Q9NSN8	SNTG1	syntrophin pthr10554
+UniProtKB:Q9NSY0	NRBP2	serine/threonine-protein kinase wnk (with no lysine)-related pthr13902
+UniProtKB:Q9NP64	ZCCHC17	family not named pthr15838
+UniProtKB:P41595	HTR2B	5-hydroxytryptamine receptor pthr24247
+UniProtKB:P62820	RAB1A	family not named pthr24073
+UniProtKB:P78356	PIP4K2B	phosphatidylinositol-4-phosphate 5-kinase pthr23086
+UniProtKB:P56962	STX17	syntaxin pthr19957
+UniProtKB:A5D8V6	VPS37C	williams-beuren syndrome critical region protein-related pthr13678
+UniProtKB:P49116	NR2C2	nuclear hormone receptor pthr24083
+UniProtKB:Q7LGC8	CHST3	carbohydrate sulfotransferase pthr10704
+UniProtKB:Q6P6C2	ALKBH5	family not named pthr32074
+UniProtKB:Q6UWE0	LRSAM1	leucine-rich repeat-containing protein pthr23155
+UniProtKB:Q5MNZ9	WIPI1	wd-repeat protein interacting with phosphoinosides (wipi)-related pthr11227
+UniProtKB:Q5MNZ6	WDR45B	wd-repeat protein interacting with phosphoinosides (wipi)-related pthr11227
+UniProtKB:P31749	AKT1	akt-related serine/threonine-protein kinase pthr24352
+UniProtKB:P26368	U2AF2	rna-binding protein pthr23139
+UniProtKB:O94964	SOGA1	uncharacterized pthr15742
+UniProtKB:O94826	TOMM70	tpr repeat containing protein pthr22904
+UniProtKB:O94817	ATG12	autophagy protein 12 pthr13385
+UniProtKB:A0PJW8	DAPL1	death-associated protein 1 pthr13177
+UniProtKB:P51149	RAB7A	family not named pthr24073
+UniProtKB:Q92561	PHYHIP	family not named pthr32521
+UniProtKB:Q9BVC4	MLST8	g beta-like protein gbl pthr19842
+UniProtKB:Q92574	TSC1	hamartin pthr15154
+UniProtKB:Q9BV40	VAMP8	snare proteins pthr21136
+UniProtKB:Q9BUL5	PHF23	uncharacterized pthr14571
+UniProtKB:Q9BTU6	PI4K2A	phosphatidylinositol 4-kinase type-ii pthr12865
+UniProtKB:Q92784	DPF3	histone acetyltransferase pthr10615
+UniProtKB:Q9Y6M9	NDUFB9	nadh-ubiquinone oxidoreductase b22 subunit pthr12868
+UniProtKB:P35968	KDR	tyrosine-protein kinase receptor pthr24416
+UniProtKB:P35749	MYH11	myosin pthr13140
+UniProtKB:Q9Y4P1	ATG4B	apg4 autophagy 4-related pthr22624
+UniProtKB:P37840	SNCA	synuclein pthr13820
+UniProtKB:P43026	GDF5	tgf-beta family pthr11848
+UniProtKB:P43007	SLC1A4	sodium/dicarboxylate symporter-related pthr11958
+UniProtKB:P43003	SLC1A3	sodium/dicarboxylate symporter-related pthr11958
+UniProtKB:P43166	CA7	carbonic anhydrase pthr18952
+UniProtKB:Q8IWA4	MFN1	transmembrane gtpase fzo1 pthr10465
+UniProtKB:Q8IWA0	WDR75	wd40 repeat protein pthr22847
+UniProtKB:Q9BZR9	TRIM8	family not named pthr24103
+UniProtKB:Q7Z3C6	ATG9A	apg9 autophagy 9 pthr13038
+UniProtKB:P56589	PEX3	amino acid transporter pthr22950
+UniProtKB:P42684	ABL2	tyrosine-protein kinase pthr24418
+UniProtKB:Q9C0C7	AMBRA1	family not named pthr22874
+UniProtKB:P42574	CASP3	caspase pthr10454
+UniProtKB:Q9NT62	ATG3	autophagocytosis protein aut1-related pthr12866
+UniProtKB:A1A4Y4	IRGM	interferon-inducible gtpase pthr32341
+UniProtKB:C9J5L0	WDR45	
+UniProtKB:Q96A65	EXOC4	exocyst complex component 4 pthr14146
+UniProtKB:P0CG48	UBC	ubiquitin pthr10666
+UniProtKB:P0CG47	UBB	ubiquitin pthr10666
+UniProtKB:O43464	HTRA2	serine protease family s1c htra-related pthr22939
+UniProtKB:C9J7Q8	WDR45	
+UniProtKB:H0Y9U4	FAM134B	
+UniProtKB:P48357	LEPR	cytokine receptor pthr23036
+UniProtKB:P62987	UBA52	ubiquitin pthr10666
+UniProtKB:Q6PJ69	TRIM65	family not named pthr24103
+UniProtKB:Q5S007	LRRK2	leucine-rich repeat-containing protein pthr23155
+UniProtKB:P45983	MAPK8	mitogen-activated protein kinase pthr24055
+UniProtKB:P52179	MYOM1	myosin-binding protein-related pthr19900
+UniProtKB:Q96Q27	ASB2	family not named pthr24196
+UniProtKB:O43504	LAMTOR5	family not named pthr13342
+UniProtKB:Q8NCE2	MTMR14	family not named pthr13524
+UniProtKB:Q8NEB9	PIK3C3	phosphatidylinositol kinase pthr10048
+UniProtKB:P46721	SLCO1A2	organic anion transporter pthr11388
+UniProtKB:O43633	CHMP2A	charged multivesicular body protein pthr10476
+UniProtKB:Q8IYI6	EXOC8	family not named pthr21426
+UniProtKB:Q8IYA8	CCDC36	
+UniProtKB:Q8IUQ0	CLVS1	retinaldehyde binding protein-related pthr10174
+UniProtKB:Q8IY31	IFT20	family not named pthr31978
+UniProtKB:Q8IXJ6	SIRT2	chromatin regulatory protein sir2 pthr11085
+UniProtKB:Q8IXH6	TP53INP2	family not named pthr31671
+UniProtKB:O43826	SLC37A4	
+UniProtKB:P60520	GABARAPL2	microtubule-associated proteins 1a/1b light chain 3-related pthr10969
+UniProtKB:P48426	PIP4K2A	phosphatidylinositol-4-phosphate 5-kinase pthr23086
+UniProtKB:Q6PCD5	RFWD3	rfwd3 protein pthr16047
+UniProtKB:Q6PEX7	TEX38	
+UniProtKB:K7EKK2	BECN1	
+UniProtKB:K7EK57	WIPI1	
+UniProtKB:X6R3R3	SOGA1	
+UniProtKB:Q5TF21	SOGA3	uncharacterized pthr15742
+UniProtKB:E9PR71	UVRAG	
+UniProtKB:C9JYH8	WDR45	
+UniProtKB:C9JXG2	ATG9A	
+UniProtKB:K7EQ67	ATG4D	
+UniProtKB:K7EPJ0	ATG4D	
+UniProtKB:K7EP43	ATG4D	
+UniProtKB:C9JBX7	WDR45	
+UniProtKB:C9JC51	ATG4C	
+UniProtKB:H0YDM2	SOGA1	
+UniProtKB:H7C2R3	ATG7	
+UniProtKB:H7C2A6	ATG4B	
+UniProtKB:F5GYD9	GABARAPL1	
+UniProtKB:K7ENS1	EPG5	
+UniProtKB:K7EN35	BECN1	
+UniProtKB:K7EN30	ATG4D	
+UniProtKB:K7EMB9	ATG4D	
+UniProtKB:K7ELY9	BECN1	
+UniProtKB:K7ELY0	WIPI1	
+UniProtKB:K7ESM7	ATG4D	
+UniProtKB:E5RI62	TRIM17	
+UniProtKB:H0YHV0	DRAM1	
+UniProtKB:G3V1T7	GABARAPL1	
+UniProtKB:Q9HCE0	EPG5	family not named pthr31139
+UniProtKB:Q5H9B9	BMP2KL	
+UniProtKB:Q9H9H4	VPS37B	williams-beuren syndrome critical region protein-related pthr13678
+UniProtKB:A9UGY9	ATG5	
+UniProtKB:Q66K74	MAP1S	microtubule-associated protein pthr13843
+UniProtKB:P54646	PRKAA2	serine/threonine kinase pthr24343
+UniProtKB:P61421	ATP6V0D1	vacuolar atp synthase subunit ac39 pthr11028
+UniProtKB:H7C4N7	WDR45	
+UniProtKB:E7EQQ5	TRIM5	
+UniProtKB:H7C3T2	ATG2A	
+UniProtKB:K7ERY0	BECN1	
+UniProtKB:H0YHJ0	DRAM1	
+UniProtKB:K7ERK1	ATG4D	
+UniProtKB:K7EQQ7	BECN1	
+UniProtKB:C9JE01	WDR45	
+UniProtKB:K7EJA5	ATG4D	
+UniProtKB:L7UQJ2	ATG5	
+UniProtKB:C9IYZ9	ATG9A	
+UniProtKB:C9JQ72	ATG4B	
+UniProtKB:A0A0B4J256	DRAM1	
+UniProtKB:F5GZY7	GABARAPL1	
+UniProtKB:X6RKL2	OPTN	
+UniProtKB:K7ER46	BECN1	
+UniProtKB:E9PPR2	ATG13	
+UniProtKB:Q2KHT3	CLEC16A	uncharacterized pthr21481
+UniProtKB:F2Z2K8	ATG4B	
+UniProtKB:K7EMA2	BECN1	
+UniProtKB:Q9Y4G2	PLEKHM1	pleckstrin homology domain containing protein pthr12326
+UniProtKB:C9J3C0	ATG4B	
+UniProtKB:A6NGQ4	ATG4C	
+UniProtKB:C9JDK4	ATG9A	
+UniProtKB:S4R2Z2	DRAM2	
+UniProtKB:J3KNZ3	TRIM17	
+UniProtKB:F8W7J2	ATG4A	
+UniProtKB:A0A0C4DFZ2	ARSA	
+UniProtKB:A0A087WY28	OPTN	
+UniProtKB:Q96EF0	MTMR8	myotubularin-related pthr10807
+UniProtKB:C9J471	WDR45	
+UniProtKB:H0Y2Y0	ATG4B	
+UniProtKB:G5EA37	WIPI1	
+UniProtKB:H6UMI1	GABARAP	
+UniProtKB:A6NM71	WDR45	wd-repeat protein interacting with phosphoinosides (wipi)-related pthr11227
+UniProtKB:A0A087WW40	SH3GLB1	
+UniProtKB:C9JX27	ATG9A	
+UniProtKB:C9JWN8	TRIM5	
+UniProtKB:C9JVT3	WDR45	
+UniProtKB:A0A087WUL7	NRBF2	
+UniProtKB:E9PJV6	STX17	
+UniProtKB:C9JS65	ATG9A	
+UniProtKB:A0A087X2G2	OPTN	
+UniProtKB:C9JVD5	ATG4B	
+UniProtKB:C9JUS5	WDR45	
+UniProtKB:C9JKV7	ATG9A	
+UniProtKB:J3QL92	MTCL1	
+UniProtKB:H7C1H4	OPTN	
+UniProtKB:H7C2J8	ATG7	
+UniProtKB:E7EV84	BECN1	
+UniProtKB:Q7Z3H3	DKFZp686F0183	
+UniProtKB:C9JFV2	ATG9A	
+UniProtKB:A0A0U1RQS7	WDR45	
+UniProtKB:G8JLI5	WDR45	
+UniProtKB:H3BRB8	H3BRB8	
+UniProtKB:E9PJP2	SOGA3	
+UniProtKB:H7BZW5	ATG4C	
+UniProtKB:H3BQ50	GABARAPL2	
+UniProtKB:H3BTL1	MAP1LC3B	
+UniProtKB:H3BSM5	GABARAPL2	
+UniProtKB:H7BZ92	ATG7	
+UniProtKB:H7BYM2	ATG4A	
+UniProtKB:E9PIC2	STX17	
+UniProtKB:A0A0U1RRJ9	WDR45	
+UniProtKB:H7C5B4	WDR45	
+UniProtKB:Q5JX66	TP53INP2	
+UniProtKB:H7C134	TRIM5	
+UniProtKB:I3L236	GABARAP	
+UniProtKB:C9JIK8	ATG4B	
+UniProtKB:J9JIF6	ATG13	
+UniProtKB:E5RJW6	TRIM17	
