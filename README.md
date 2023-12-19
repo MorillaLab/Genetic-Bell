@@ -4,7 +4,7 @@ In complex diseases, the interactions among genes are commonly elucidated throug
 # Non-linear correlation model of two genes
 (A) An example of a synthetic biological network modeling a complex disease and clustered by communities, wherein diverse hues signify distinct community affiliations. (B) The correlation model of any two nodes in the same community, affected by potential environmental, stochastic, or genetic variations. A sequence, such as a transcription factor, in cis with gene A, produces a sharp phenotype that interacts with gene B. A variant ω in the gene A promoter (PR) can impede the full phenotypical interaction, leading to a potential disease-permissive state.
 
-![Non-linear model](https://github.com/MorillaLab/Genetic-Bell/tree/main/Figures/Figure1.png | width=100)
+![Non-linear model](https://github.com/MorillaLab/Genetic-Bell/tree/main/Figures/Figure1.png | width=72)
 
 # Genotype versus phenotype co-expression analysis by individual modules and groups
 (A) Matrix of individual’s GWAS features. (B) Standard scaling methods of a patient matrix, wherein blue and red bars stand for upper and lower threshold of choice respectively. (C) Calculation of the covariance matrix to be subsequently used in data reduction methods. (D) Multidimensional scaling to infer an all-in patient-features matrix. (E) Application of the classic k-means method to separate individuals into two clusters per GO function. Numbers indicate belonging to each cluster
