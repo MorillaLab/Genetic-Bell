@@ -24,6 +24,7 @@ jobs:
           install.packages(c("remotes", "rcmdcheck"), repos = "https://cran.rstudio.com")
           remotes::install_deps(dependencies = TRUE)
         shell: Rscript {0}
+        timeout-minutes: 15  # Adjust the timeout as needed
       - name: Check
         run: rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")
         shell: Rscript {0}
