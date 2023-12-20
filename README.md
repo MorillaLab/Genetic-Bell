@@ -16,7 +16,7 @@ In complex diseases, the interactions among genes are commonly elucidated throug
 (A) An example of a synthetic biological network modeling a complex disease and clustered by communities, wherein diverse hues signify distinct community affiliations. (B) The correlation model of any two nodes in the same community, affected by potential environmental, stochastic, or genetic variations. A sequence, such as a transcription factor, in cis with gene A, produces a sharp phenotype that interacts with gene B. A variant ω in the gene A promoter (PR) can impede the full phenotypical interaction, leading to a potential disease-permissive state.
 
 
-<img src="https://github.com/MorillaLab/Genetic-Bell/blob/main/Figure1.png" alt="Non-linear model" width="150">
+<img src="https://github.com/MorillaLab/Genetic-Bell/blob/main/Figure1.png" alt="Non-linear model" width="250">
 
 
 ```ruby
