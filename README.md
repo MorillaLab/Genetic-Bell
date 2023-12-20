@@ -1,7 +1,7 @@
 # Genetic-Bell (Kaba et al., 2023) 
 <p align="left">
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
-    <img src="https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green" alt="">
+    <img src="https://img.shields.io/badge/License-Open_Access-green" alt="">
   </a>
   <a href="https://www.mdpi.com/2227-7390/11/24/4916">
     <img src="https://img.shields.io/badge/Doi-10.3390/math11244916-blue" alt="">
