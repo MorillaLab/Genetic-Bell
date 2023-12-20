@@ -29,6 +29,6 @@ In complex diseases, the interactions among genes are commonly elucidated throug
 ```
 The red facets correspond to the 42 dimensional probabilistic CHSH-space of two gene interactions. The green square denotes the potential interaction subspace of (Bax, p21). The LHV region is described by the blue polyhedron. The proven global correlation of (Bax, p21) in functional modules, as applied in modeling complex diseases, places our model in the top-left region between the LHV region and the interactions subspace. Lastly, the non-local and no-signaling regions are indicated at the top-right and bottom-left vertices, respectively.
 
-<img src="https://github.com/MorillaLab/Genetic-Bell/blob/main/Figure7.png" alt="CHSH_space" width="500">
+<img src="https://github.com/MorillaLab/Genetic-Bell/blob/main/Figure7.png" alt="CHSH_space" width="600">
 
 
