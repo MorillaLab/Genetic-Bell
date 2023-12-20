@@ -22,7 +22,7 @@ In complex diseases, the interactions among genes are commonly elucidated throug
 ```
 (A) Matrix of individual’s GWAS features. (B) Standard scaling methods of a patient matrix, wherein blue and red bars stand for upper and lower threshold of choice respectively. (C) Calculation of the covariance matrix to be subsequently used in data reduction methods. (D) Multidimensional scaling to infer an all-in patient-features matrix. (E) Application of the classic k-means method to separate individuals into two clusters per GO function. Numbers indicate belonging to each cluster.
 
-<img src="https://github.com/MorillaLab/Genetic-Bell/blob/main/Figure2.png" alt="Genotype_vs_Phenotype" width="700">
+<img src="https://github.com/MorillaLab/Genetic-Bell/blob/main/Figure2.png" alt="Genotype_vs_Phenotype" style="width:700px; height:200px; object-fit: cover;">
 
 ```ruby
 # Geometric Bell’s Inequalities of our results
