@@ -1,12 +1,8 @@
 # Genetic-Bell (Kaba et al., 2023) 
-<p align="left">
-  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
-    <img src="https://img.shields.io/badge/License-Open_Access-green" alt="">
-  </a>
-  <a href="https://doi.org/10.3390/math11244916">
-    <img src="https://img.shields.io/badge/Doi-10.3390/math11244916-blue" alt="">
-  </a>
-</p>
+
+[![License](https://img.shields.io/badge/License-Open_Access-green)](https://creativecommons.org/licenses/by-nc-nd/4.0/
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MorillaLab/TopoTransformers/)
+[![Doi](https://img.shields.io/badge/Doi-10.3390/math11244916-blue)](https://doi.org/10.3390/math11244916)
 
 In complex diseases, the interactions among genes are commonly elucidated through the lens of graphs. Amongst these genes, certain ones form bi-functional modules within the graph, contingent upon their (anti)correlation with a specific functional state, such as susceptibility to a genetic disorder of non-Mendelian traits. Consequently, a disease can be delineated by a finite number of these discernible modules. Within each module, there exist allelic variants that pose a genetic risk, thus qualifying as genetic risk factors. These factors precipitate a permissive state, which if all other modules also align in the same permissive state, can ultimately lead to the onset of the disease in an individual. To gain a deeper insight into the incidence of a disease, it becomes imperative to acquire a comprehensive understanding of the genetic transmission of these factors. In this work, we present a non-linear model for this transmission, drawing inspiration from the classic theory of the Bell experiment. This model aids in elucidating the variances observed in SNP interactions concerning the risk of disease.
 
