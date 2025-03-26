@@ -1,6 +1,6 @@
 # Genetic-Bell (Kaba et al., 2023) 
 
-[![License](https://img.shields.io/badge/License-Open_Access-green)](https://creativecommons.org/licenses/by-nc-nd/4.0/
+[![License](https://img.shields.io/badge/License-Open_Access-green)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MorillaLab/TopoTransformers/)
 [![Doi](https://img.shields.io/badge/Doi-10.3390/math11244916-blue)](https://doi.org/10.3390/math11244916)
 
