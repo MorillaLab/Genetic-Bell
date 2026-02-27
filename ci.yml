@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-and-check:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        r-version: ["4.2", "4.3"]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up R ${{ matrix.r-version }}
+      uses: r-lib/actions/setup-r@v2
+      with:
+        r-version: ${{ matrix.r-version }}
+
+    - name: Cache R packages
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.R_LIBS_USER }}
+        key: ${{ runner.os }}-r-${{ matrix.r-version }}-${{ hashFiles('requirements.R') }}
+        restore-keys: |
+          ${{ runner.os }}-r-${{ matrix.r-version }}-
+
+    - name: Install core R dependencies
+      run: |
+        Rscript -e "install.packages(c('igraph', 'ggplot2', 'MASS', 'cluster',
+                    'mixtools', 'data.table', 'tidyverse', 'lintr'),
+                    repos = 'https://cloud.r-project.org')"
+
+    - name: Lint R code
+      run: |
+        Rscript -e "lintr::lint_dir('model', linters = lintr::linters_with_defaults())" \
+          || echo "Lint warnings found (non-blocking)"
+      continue-on-error: true
+
+    - name: Check R scripts can be parsed
+      run: |
+        Rscript -e "
+          scripts <- list.files(c('model', 'EM_peaks'), pattern='\\.R$', full.names=TRUE)
+          for (s in scripts) {
+            cat('Checking:', s, '\n')
+            tryCatch(parse(s), error=function(e) stop(paste('Parse error in', s, ':', e)))
+          }
+          cat('All scripts parsed successfully.\n')
+        "

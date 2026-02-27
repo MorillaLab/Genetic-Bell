@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0008;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#120010;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e11d48;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#c026d3;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="lhvgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:0.20"/>
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:0.05"/>
+    </linearGradient>
+    <linearGradient id="intergrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e11d48;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#e11d48;stop-opacity:0.04"/>
+    </linearGradient>
+    <filter id="bigblur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="softblur"><feGaussianBlur stdDeviation="8"/></filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <!-- Ambient glow -->
+  <ellipse cx="250" cy="400" rx="360" ry="220" fill="#e11d48" opacity="0.06" filter="url(#bigblur)"/>
+  <ellipse cx="1050" cy="280" rx="300" ry="220" fill="#2563eb" opacity="0.07" filter="url(#bigblur)"/>
+  <ellipse cx="700" cy="580" rx="200" ry="100" fill="#7c3aed" opacity="0.05" filter="url(#bigblur)"/>
+
+  <!-- ============================================================ -->
+  <!-- RIGHT: CHSH space visual (polyhedra projection)             -->
+  <!-- Simplified 2D projection of the 42-dim CHSH space          -->
+  <!-- ============================================================ -->
+
+  <!-- Outer interaction subspace (red facets) -->
+  <polygon points="820,120 1000,120 1110,280 1060,450 860,470 730,310"
+           fill="url(#intergrad)" stroke="#e11d48" stroke-width="1.5" stroke-opacity="0.5"/>
+
+  <!-- LHV polyhedron (blue) -->
+  <polygon points="870,240 960,200 1040,270 1020,370 920,390 840,330"
+           fill="url(#lhvgrad)" stroke="#3b82f6" stroke-width="1.8" stroke-opacity="0.7"/>
+
+  <!-- Inner LHV shading lines -->
+  <g stroke="#2563eb" stroke-width="0.6" stroke-opacity="0.2">
+    <line x1="870" y1="240" x2="1040" y2="270"/>
+    <line x1="960" y1="200" x2="920" y2="390"/>
+    <line x1="870" y1="240" x2="1020" y2="370"/>
+    <line x1="960" y1="200" x2="840" y2="330"/>
+  </g>
+
+  <!-- Green square: (Bax, p21) interaction subspace -->
+  <rect x="895" y="268" width="90" height="80" rx="4"
+        fill="#16a34a" fill-opacity="0.15" stroke="#22c55e" stroke-width="1.8" stroke-opacity="0.8"/>
+
+  <!-- The model's point: between LHV and interaction subspace -->
+  <circle cx="955" cy="295" r="10" fill="#fbbf24" opacity="0.95" filter="url(#glow)"/>
+  <circle cx="955" cy="295" r="5" fill="#fef3c7" opacity="1"/>
+
+  <!-- Arrow pointing to the model position -->
+  <path d="M 1000 240 L 968 285" stroke="#fbbf24" stroke-width="1.5"
+        fill="none" marker-end="url(#arrowhead)" opacity="0.8"/>
+  <text x="1005" y="236" font-family="'Segoe UI', sans-serif" font-size="12"
+        fill="#fde68a" font-style="italic">(Bax, p21)</text>
+  <text x="1005" y="252" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#fde68a" opacity="0.7">model position</text>
+
+  <!-- Region labels -->
+  <text x="822" y="145" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#fca5a5" opacity="0.7" font-style="italic">interaction</text>
+  <text x="822" y="158" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#fca5a5" opacity="0.7" font-style="italic">subspace</text>
+
+  <text x="848" y="370" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#93c5fd" opacity="0.8">LHV</text>
+  <text x="848" y="383" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#93c5fd" opacity="0.8">region</text>
+
+  <text x="898" y="267" font-family="'Segoe UI', sans-serif" font-size="10"
+        fill="#86efac" opacity="0.8">Bax · p21</text>
+
+  <!-- Non-local label (top right vertex) -->
+  <text x="1068" y="118" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#d8b4fe" opacity="0.7" font-style="italic">non-local</text>
+
+  <!-- No-signaling label (bottom left vertex) -->
+  <text x="725" y="325" font-family="'Segoe UI', sans-serif" font-size="10"
+        fill="#a5b4fc" opacity="0.6" font-style="italic">no-signal</text>
+
+  <!-- CHSH space label -->
+  <text x="920" y="490" font-family="'Segoe UI', sans-serif" font-size="12"
+        fill="#4b5563" text-anchor="middle" opacity="0.7">42-dim CHSH space (projection)</text>
+
+  <!-- ============================================================ -->
+  <!-- RIGHT-BOTTOM: small gene network                             -->
+  <!-- ============================================================ -->
+  <!-- Community 1 nodes (rose) -->
+  <circle cx="820" cy="550" r="8" fill="#e11d48" opacity="0.7" filter="url(#softblur)"/>
+  <circle cx="855" cy="535" r="6" fill="#f43f5e" opacity="0.6"/>
+  <circle cx="850" cy="565" r="6" fill="#e11d48" opacity="0.6"/>
+  <!-- Community 2 nodes (blue) -->
+  <circle cx="910" cy="545" r="8" fill="#2563eb" opacity="0.7" filter="url(#softblur)"/>
+  <circle cx="940" cy="530" r="6" fill="#3b82f6" opacity="0.6"/>
+  <circle cx="938" cy="562" r="6" fill="#2563eb" opacity="0.6"/>
+  <!-- Community 3 nodes (violet) -->
+  <circle cx="990" cy="548" r="7" fill="#7c3aed" opacity="0.7" filter="url(#softblur)"/>
+  <circle cx="1020" cy="535" r="5" fill="#8b5cf6" opacity="0.6"/>
+  <circle cx="1018" cy="560" r="5" fill="#7c3aed" opacity="0.6"/>
+  <!-- Intra-community edges -->
+  <g stroke="#374151" stroke-width="0.8" opacity="0.4">
+    <line x1="820" y1="550" x2="855" y2="535"/>
+    <line x1="820" y1="550" x2="850" y2="565"/>
+    <line x1="855" y1="535" x2="850" y2="565"/>
+    <line x1="910" y1="545" x2="940" y2="530"/>
+    <line x1="910" y1="545" x2="938" y2="562"/>
+    <line x1="940" y1="530" x2="938" y2="562"/>
+    <line x1="990" y1="548" x2="1020" y2="535"/>
+    <line x1="990" y1="548" x2="1018" y2="560"/>
+  </g>
+  <!-- Inter-community edges (dashed) -->
+  <g stroke="#6b7280" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.3">
+    <line x1="855" y1="535" x2="910" y2="545"/>
+    <line x1="938" y1="562" x2="990" y2="548"/>
+  </g>
+  <text x="920" y="590" font-family="'Segoe UI', sans-serif" font-size="11"
+        fill="#4b5563" text-anchor="middle" opacity="0.6">bi-functional modules (communities)</text>
+
+  <!-- ============================================================ -->
+  <!-- LEFT PANEL: text content                                     -->
+  <!-- ============================================================ -->
+
+  <!-- Vertical accent bar -->
+  <rect x="62" y="88" width="5" height="200" rx="3" fill="url(#accent)"/>
+
+  <!-- Title -->
+  <text x="88" y="160" font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+        font-size="80" font-weight="900" fill="white" letter-spacing="-2">Genetic-Bell</text>
+
+  <!-- Subtitle -->
+  <text x="90" y="202" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="19" fill="#fda4af" letter-spacing="0.2">
+    Non-Linear Model of Epistasis
+  </text>
+  <text x="90" y="228" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="15" fill="#6b7280">
+    Bell's Theorem  ·  CHSH Inequalities  ·  Gene Interaction Networks  ·  R
+  </text>
+
+  <!-- Divider -->
+  <rect x="88" y="248" width="500" height="2" rx="1" fill="url(#accent)"/>
+
+  <!-- Stat / concept boxes -->
+  <rect x="88" y="266" width="135" height="80" rx="10"
+        fill="#ffffff" fill-opacity="0.03" stroke="#e11d48" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="155" y="302" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="22" font-weight="700" fill="#fca5a5" text-anchor="middle">CHSH</text>
+  <text x="155" y="322" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="13" fill="#6b7280" text-anchor="middle">42-dim</text>
+  <text x="155" y="338" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="11" fill="#4b5563" text-anchor="middle">space</text>
+
+  <rect x="236" y="266" width="135" height="80" rx="10"
+        fill="#ffffff" fill-opacity="0.03" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="303" y="302" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="22" font-weight="700" fill="#93c5fd" text-anchor="middle">LHV</text>
+  <text x="303" y="322" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="13" fill="#6b7280" text-anchor="middle">polyhedron</text>
+  <text x="303" y="338" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="11" fill="#4b5563" text-anchor="middle">vs non-local</text>
+
+  <rect x="384" y="266" width="135" height="80" rx="10"
+        fill="#ffffff" fill-opacity="0.03" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="451" y="299" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="16" font-weight="700" fill="#c4b5fd" text-anchor="middle">Bi-functional</text>
+  <text x="451" y="316" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="16" font-weight="700" fill="#c4b5fd" text-anchor="middle">Modules</text>
+  <text x="451" y="338" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="11" fill="#4b5563" text-anchor="middle">disease permissivity</text>
+
+  <rect x="532" y="266" width="115" height="80" rx="10"
+        fill="#ffffff" fill-opacity="0.03" stroke="#22c55e" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="589" y="300" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="16" font-weight="700" fill="#86efac" text-anchor="middle">Bax</text>
+  <text x="589" y="318" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="16" font-weight="700" fill="#86efac" text-anchor="middle">× p21</text>
+  <text x="589" y="338" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="11" fill="#4b5563" text-anchor="middle">validated pair</text>
+
+  <!-- Tag pills -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13">
+    <rect x="88" y="368" width="130" height="28" rx="14"
+          fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="153" y="387" fill="#fca5a5" text-anchor="middle">🔔 Bell Theorem</text>
+
+    <rect x="230" y="368" width="135" height="28" rx="14"
+          fill="#3b82f6" fill-opacity="0.10" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="297" y="387" fill="#93c5fd" text-anchor="middle">🧬 Epistasis</text>
+
+    <rect x="377" y="368" width="130" height="28" rx="14"
+          fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="442" y="387" fill="#c4b5fd" text-anchor="middle">🕸️ Gene Networks</text>
+
+    <rect x="519" y="368" width="80" height="28" rx="14"
+          fill="#276DC3" fill-opacity="0.15" stroke="#276DC3" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="559" y="387" fill="#93c5fd" text-anchor="middle">R</text>
+  </g>
+
+  <!-- Key insight box -->
+  <rect x="88" y="420" width="570" height="52" rx="8"
+        fill="#0a0008" stroke="#e11d48" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="104" y="440" font-family="'Segoe UI', sans-serif" font-size="13"
+        fill="#e11d48" font-weight="600">Key insight:</text>
+  <text x="104" y="458" font-family="'Segoe UI', sans-serif" font-size="12" fill="#6b7280">
+    SNP interactions that violate LHV bounds require non-linear (non-additive) epistasis models
+  </text>
+
+  <!-- Math formula -->
+  <text x="88" y="498" font-family="'Courier New', monospace" font-size="13"
+        fill="#7c3aed" opacity="0.5">|⟨AB⟩ + ⟨AB'⟩ + ⟨A'B⟩ − ⟨A'B'⟩| ≤ 2</text>
+  <text x="88" y="516" font-family="'Courier New', monospace" font-size="12"
+        fill="#4b5563" opacity="0.4">                              CHSH inequality  (Bell, 1964)</text>
+
+  <!-- Bottom label -->
+  <text x="88" y="562" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="14" fill="#374151">
+    MorillaLab · Mathematics (MDPI), 2023 · DOI: 10.3390/math11244916
+  </text>
+  <text x="88" y="582" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="13" fill="#374151">
+    Kaba · Vomo-Donfack · Morilla
+  </text>
+</svg>
